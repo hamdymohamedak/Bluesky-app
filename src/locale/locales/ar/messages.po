@@ -16,7 +16,7 @@ msgstr ""
 #. Accessibility label for a category (e.g. Art, Video Games, Sports, etc.) that shows suggested accounts for the user to follow. The tab is currently selected.
 #: src/components/InterestTabs.tsx:330
 msgid "\"{interestsDisplayName}\" category (active)"
-msgstr "\"{interestsDisplayName}\" category (active)"
+msgstr "فئة \"{interestsDisplayName}\" (نشطة)"
 
 #: src/components/dms/getMessageInfo.ts:66
 msgid "(contains embedded content)"
@@ -34,12 +34,12 @@ msgstr "{0, plural, one {# day} other {# days}}"
 #. placeholder {0}: profile.followersCount ?? 0
 #: src/screens/Profile/ProfileFollowers.tsx:33
 msgid "{0, plural, one {# follower} other {# followers}}"
-msgstr "{0, plural, one {# follower} other {# followers}}"
+msgstr "{0, plural, one {# اتابع} other {# متابعين}}"
 
 #. placeholder {0}: profile.followsCount ?? 0
 #: src/screens/Profile/ProfileFollows.tsx:33
 msgid "{0, plural, one {# following} other {# following}}"
-msgstr "{0, plural, one {# following} other {# following}}"
+msgstr "{0, plural, one {# اتابع} other {# يتابعون}}"
 
 #. placeholder {0}: item.count
 #: src/components/contacts/screens/ViewMatches.tsx:268
@@ -125,18 +125,18 @@ msgstr "{0, plural, one {1 more post} other {# more posts}}"
 #: src/components/ProfileHoverCard/index.web.tsx:444
 #: src/screens/Profile/Header/Metrics.tsx:22
 msgid "{0, plural, one {follower} other {followers}}"
-msgstr "{0, plural, one {follower} other {followers}}"
+msgstr "{0, plural, one {اتابع} other {متابعون}}"
 
 #. placeholder {0}: profile.followsCount || 0
 #: src/components/ProfileHoverCard/index.web.tsx:448
 #: src/screens/Profile/Header/Metrics.tsx:26
 msgid "{0, plural, one {following} other {following}}"
-msgstr "{0, plural, one {following} other {following}}"
+msgstr "{0, plural, one {اتابع} other {يتابع}}"
 
 #. placeholder {0}: profile.postsCount || 0
 #: src/screens/Profile/Header/Metrics.tsx:58
 msgid "{0, plural, one {post} other {posts}}"
-msgstr "{0, plural, one {post} other {posts}}"
+msgstr "{0, plural, one {منشور} other {منشورات}}"
 
 #. Number of users (always at least 25) who have joined Bluesky using a specific starter pack
 #. placeholder {0}: starterPack.joinedAllTimeCount || 0
@@ -478,19 +478,19 @@ msgstr "{joinedAllTimeCount, plural, other {# users have}} joined!"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:138
 msgid "{MAX_ALT_TEXT, plural, other {Alt text must be less than # characters.}}"
-msgstr "{MAX_ALT_TEXT, plural, other {Alt text must be less than # characters.}}"
+msgstr "{MAX_ALT_TEXT, plural, other {يجب أن يكون النص البديل أقل من # حرفًا.}}"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:380
 msgid "{MAX_DESCRIPTION, plural, other {Description is too long. The maximum number of characters is #.}}"
-msgstr "{MAX_DESCRIPTION, plural, other {Description is too long. The maximum number of characters is #.}}"
+msgstr "{MAX_DESCRIPTION, plural, other {الوصف طويل جدًا. الحد الأقصى لعدد الأحرف هو #.}}"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:329
 msgid "{MAX_DISPLAY_NAME, plural, other {Display name is too long. The maximum number of characters is #.}}"
-msgstr "{MAX_DISPLAY_NAME, plural, other {Display name is too long. The maximum number of characters is #.}}"
+msgstr "{MAX_DISPLAY_NAME, plural, other {اسم العرض طويل جدًا. الحد الأقصى لعدد الأحرف هو #.}}"
 
 #: src/components/PostControls/PostMenu/PostMenuItems.tsx:394
 msgid "{MAX_HIDDEN_REPLIES, plural, other {You can hide a maximum of # replies.}}"
-msgstr "{MAX_HIDDEN_REPLIES, plural, other {You can hide a maximum of # replies.}}"
+msgstr "{MAX_HIDDEN_REPLIES, plural, other {يمكنك إخفاء حد أقصى من # ردود.}}"
 
 #. The number of group chat members out of the total number of permitted users.
 #: src/screens/Messages/ConversationSettings/MembersAndRequests.tsx:34
@@ -499,32 +499,32 @@ msgstr "{memberCount}/{MEMBER_LIMIT}"
 
 #: src/screens/Signup/StepInfo/index.tsx:312
 msgid "{MIN_ACCESS_AGE, plural, other {You must be # years of age or older to create an account.}}"
-msgstr "{MIN_ACCESS_AGE, plural, other {You must be # years of age or older to create an account.}}"
+msgstr "{MIN_ACCESS_AGE, plural, other {يجب أن يكون عمرك # عامًا أو أكثر لإنشاء حساب.}}"
 
 #: src/features/liveNow/utils.ts:10
 msgid "{minutes, plural, one {# minute} other {# minutes}}"
-msgstr "{minutes, plural, one {# minute} other {# minutes}}"
+msgstr "{minutes, plural, one {# دقيقة} other {# دقائق}}"
 
 #: src/components/dms/getSystemMessageInfo.ts:57
 msgid "{name} joined the group"
-msgstr "{name} joined the group"
+msgstr "انضم {name} إلى المجموعة"
 
 #: src/components/dms/getSystemMessageInfo.ts:64
 msgid "{name} left the group"
-msgstr "{name} left the group"
+msgstr "غادر {name} المجموعة"
 
 #. placeholder {0}: reaction.value
 #: src/components/dms/getReactionInfo.ts:45
 msgid "{name} reacted {0} to {target}"
-msgstr "{name} reacted {0} to {target}"
+msgstr "تفاعل {name} بـ {0} على {target}"
 
 #: src/components/dms/getSystemMessageInfo.ts:41
 msgid "{name} was added to the group"
-msgstr "{name} was added to the group"
+msgstr "تمت إضافة {name} إلى المجموعة"
 
 #: src/components/dms/getSystemMessageInfo.ts:49
 msgid "{name} was removed from the group"
-msgstr "{name} was removed from the group"
+msgstr "تمت إزالة {name} من المجموعة"
 
 #. When the last message in a group chat came from someone other than you.
 #: src/components/dms/getMessageInfo.ts:50
@@ -533,27 +533,27 @@ msgstr "{name}: {message}"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:76
 msgid "{name}'s favorite feeds and people - join me!"
-msgstr "{name}'s favorite feeds and people - join me!"
+msgstr "الخلاصات والأشخاص المفضلون لدى {name} - انضم إلي!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:49
 msgid "{name}'s starter pack"
-msgstr "{name}'s starter pack"
+msgstr "حزمة البداية الخاصة بـ {name}"
 
 #: src/view/shell/bottom-bar/BottomBarWeb.tsx:308
 msgid "{notificationCount, plural, one {# unread item} other {# unread items}}"
-msgstr "{notificationCount, plural, one {# unread item} other {# unread items}}"
+msgstr "{notificationCount, plural, one {# عنصر غير مقروء} other {# عناصر غير مقروءة}}"
 
 #: src/screens/Settings/FindContactsSettings.tsx:436
 msgid "{numMatches, plural, one {# contact found} other {# contacts found}}"
-msgstr "{numMatches, plural, one {# contact found} other {# contacts found}}"
+msgstr "{numMatches, plural, one {تم العثور على # جهة اتصال} other {تم العثور على # جهات اتصال}}"
 
 #: src/components/NewskieDialog.tsx:115
 msgid "{profileName} joined Bluesky {timeAgoString} ago"
-msgstr "{profileName} joined Bluesky {timeAgoString} ago"
+msgstr "انضم {profileName} إلى Bluesky منذ {timeAgoString}"
 
 #: src/components/NewskieDialog.tsx:112
 msgid "{profileName} joined Bluesky using a starter pack {timeAgoString} ago"
-msgstr "{profileName} joined Bluesky using a starter pack {timeAgoString} ago"
+msgstr "انضم {profileName} إلى Bluesky باستخدام حزمة البداية منذ {timeAgoString}"
 
 #. The trending topic rank, i.e. "1. March Madness", "2. The Bachelor"
 #: src/screens/Search/modules/ExploreTrendingTopics.tsx:101
@@ -563,12 +563,12 @@ msgstr "{rank}."
 #. The number of requests to join a group chat.
 #: src/screens/Messages/ConversationSettings/MembersAndRequests.tsx:54
 msgid "{requestCount, plural, one {# request} other {# requests}}"
-msgstr "{requestCount, plural, one {# request} other {# requests}}"
+msgstr "{requestCount, plural, one {# طلب} other {# طلبات}}"
 
 #. Displayed when there are more than 50 requests to join a group chat
 #: src/screens/Messages/ConversationSettings/MembersAndRequests.tsx:49
 msgid "{requestCount}+ requests"
-msgstr "{requestCount}+ requests"
+msgstr "{requestCount}+ طلبات"
 
 #. trending topic time spent trending. should be as short as possible to fit in a pill
 #: src/screens/Search/modules/ExploreTrendingTopics.tsx:191
@@ -577,16 +577,16 @@ msgstr "{type}h ago"
 
 #: src/components/verification/VerifierDialog.tsx:62
 msgid "{userName} is a trusted verifier"
-msgstr "{userName} is a trusted verifier"
+msgstr "{userName} جهة تحقق موثوقة"
 
 #: src/components/verification/VerificationsDialog.tsx:69
 msgid "{userName} is verified"
-msgstr "{userName} is verified"
+msgstr "تم التحقق من {userName}"
 
 #. Possessive, meaning "the verifications of {userName}"
 #: src/components/verification/VerificationsDialog.tsx:71
 msgid "{userName}'s verifications"
-msgstr "{userName}'s verifications"
+msgstr "عمليات التحقق الخاصة بـ {userName}"
 
 #. Indicates the number of additional profiles are in the Starter Pack e.g. +12
 #: src/screens/Search/components/StarterPackCard.tsx:250
@@ -599,7 +599,7 @@ msgstr "+{computedTotal}"
 #: src/screens/StarterPack/Wizard/index.tsx:569
 msgctxt "feeds"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
-msgstr "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
+msgstr "<0>{0}، </0><1>{1}، </1>و{2, plural, one {شخص آخر} other {# أشخاص آخرين}} ضمن حزمة البداية الخاصة بك"
 
 #. placeholder {0}: getName(items[1] /* [0] is self, skip it */)
 #. placeholder {1}: getName(items[2])
@@ -607,47 +607,47 @@ msgstr "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} 
 #: src/screens/StarterPack/Wizard/index.tsx:516
 msgctxt "profiles"
 msgid "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
-msgstr "<0>{0}, </0><1>{1}, </1>and {2, plural, one {# other} other {# others}} are included in your starter pack"
+msgstr "<0>{0}، </0><1>{1}، </1>و{2, plural, one {شخص آخر} other {# أشخاص آخرين}} ضمن حزمة البداية الخاصة بك"
 
 #. placeholder {0}: formatCount(i18n, profile?.followersCount ?? 0)
 #. placeholder {1}: profile?.followersCount || 0
 #: src/view/shell/Drawer.tsx:108
 msgid "<0>{0}</0> {1, plural, one {follower} other {followers}}"
-msgstr "<0>{0}</0> {1, plural, one {follower} other {followers}}"
+msgstr "<0>{0}</0> {1, plural, one {متابع} other {متابعون}}"
 
 #. placeholder {0}: formatCount(i18n, profile?.followsCount ?? 0)
 #. placeholder {1}: profile?.followsCount || 0
 #: src/view/shell/Drawer.tsx:119
 msgid "<0>{0}</0> {1, plural, one {following} other {following}}"
-msgstr "<0>{0}</0> {1, plural, one {following} other {following}}"
+msgstr "<0>{0}</0> {1, plural, one {يتابع} other {يتابع}}"
 
 #. Like count display, the <0> tags enclose the number of likes in bold (will never be 0)
 #. placeholder {0}: formatPostStatCount(post.likeCount)
 #. placeholder {1}: post.likeCount
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:490
 msgid "<0>{0}</0> {1, plural, one {like} other {likes}}"
-msgstr "<0>{0}</0> {1, plural, one {like} other {likes}}"
+msgstr "<0>{0}</0> {1, plural, one {إعجاب} other {إعجابات}}"
 
 #. Quote count display, the <0> tags enclose the number of quotes in bold (will never be 0)
 #. placeholder {0}: formatPostStatCount(post.quoteCount)
 #. placeholder {1}: post.quoteCount
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:471
 msgid "<0>{0}</0> {1, plural, one {quote} other {quotes}}"
-msgstr "<0>{0}</0> {1, plural, one {quote} other {quotes}}"
+msgstr "<0>{0}</0> {1, plural, one {اقتباس} other {اقتباسات}}"
 
 #. Repost count display, the <0> tags enclose the number of reposts in bold (will never be 0)
 #. placeholder {0}: formatPostStatCount(post.repostCount)
 #. placeholder {1}: post.repostCount
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:450
 msgid "<0>{0}</0> {1, plural, one {repost} other {reposts}}"
-msgstr "<0>{0}</0> {1, plural, one {repost} other {reposts}}"
+msgstr "<0>{0}</0> {1, plural, one {إعادة نشر} other {إعادات نشر}}"
 
 #. Save count display, the <0> tags enclose the number of saves in bold (will never be 0)
 #. placeholder {0}: formatPostStatCount(post.bookmarkCount)
 #. placeholder {1}: post.bookmarkCount
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:508
 msgid "<0>{0}</0> {1, plural, one {save} other {saves}}"
-msgstr "<0>{0}</0> {1, plural, one {save} other {saves}}"
+msgstr "<0>{0}</0> {1, plural, one {حفظ} other {عمليات حفظ}}"
 
 #. placeholder {0}: getName(items[0])
 #. placeholder {1}: getName(items[1] /* [0] is self, skip it */)
@@ -655,27 +655,27 @@ msgstr "<0>{0}</0> {1, plural, one {save} other {saves}}"
 #: src/screens/StarterPack/Wizard/index.tsx:503
 #: src/screens/StarterPack/Wizard/index.tsx:557
 msgid "<0>{0}</0> and<1> </1><2>{1} </2>are included in your starter pack"
-msgstr "<0>{0}</0> and<1> </1><2>{1} </2>are included in your starter pack"
+msgstr "<0>{0}</0> و<1> </1><2>{1} </2>ضمن حزمة البداية الخاصة بك"
 
 #. placeholder {0}: getName(items[0])
 #: src/screens/StarterPack/Wizard/index.tsx:550
 msgid "<0>{0}</0> is included in your starter pack"
-msgstr "<0>{0}</0> is included in your starter pack"
+msgstr "<0>{0}</0> ضمن حزمة البداية الخاصة بك"
 
 #. placeholder {0}: list.name
 #: src/components/WhoCanReply.tsx:353
 msgid "<0>{0}</0> members"
-msgstr "<0>{0}</0> members"
+msgstr "<0>{0}</0> أعضاء"
 
 #: src/screens/Hashtag.tsx:226
 #: src/screens/Search/SearchResults.tsx:315
 msgid "<0>Sign in</0><1> or </1><2>create an account</2><3> </3><4>to search for news, sports, politics, and everything else happening on Bluesky.</4>"
-msgstr "<0>Sign in</0><1> or </1><2>create an account</2><3> </3><4>to search for news, sports, politics, and everything else happening on Bluesky.</4>"
+msgstr "<0>تسجيل الدخول</0><1> أو </1><2>إنشاء حساب</2><3> </3><4>للبحث عن الأخبار والرياضة والسياسة وكل ما يحدث على Bluesky.</4>"
 
 #. placeholder {0}: getName(items[1] /* [0] is self, skip it */)
 #: src/screens/StarterPack/Wizard/index.tsx:494
 msgid "<0>You</0> and<1> </1><2>{0} </2>are included in your starter pack"
-msgstr "<0>You</0> and<1> </1><2>{0} </2>are included in your starter pack"
+msgstr "<0>أنت</0> و<1> </1><2>{0} </2>ضمن حزمة البداية الخاصة بك"
 
 #: src/screens/Profile/Header/Handle.tsx:58
 msgid "⚠Invalid Handle"
@@ -892,7 +892,7 @@ msgstr "أضف {0} أخرى للمتابعة"
 
 #: src/components/StarterPack/Wizard/WizardListCard.tsx:63
 msgid "Add {displayName} to starter pack"
-msgstr "Add {displayName} to starter pack"
+msgstr "إضافة {displayName} إلى حزمة البداية"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:103
 #: src/view/com/composer/labels/LabelsBtn.tsx:108
@@ -11864,7 +11864,7 @@ msgstr "إعدادات التحقق"
 
 #: src/screens/Moderation/VerificationSettings.tsx:43
 msgid "Verifications on Bluesky work differently than on other platforms. <0>Learn more here.</0>"
-msgstr "Verifications on Bluesky work differently than on other platforms. <0>Learn more here.</0>"
+msgstr "آلية التحقق في Bluesky تختلف عن المنصات الأخرى. <0>تعرف على المزيد هنا</0>."
 
 #: src/components/verification/VerificationsDialog.tsx:105
 msgid "Verified by:"
