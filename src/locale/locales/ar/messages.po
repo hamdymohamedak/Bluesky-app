@@ -451,7 +451,7 @@ msgstr "{firstAuthorName} verified you"
 
 #: src/components/ProfileHoverCard/index.web.tsx:572
 msgid "{following} following"
-msgstr "{following} following"
+msgstr "{following} يتابع"
 
 #: src/components/dialogs/SearchablePeopleList.tsx:458
 msgid "{handle} can't be messaged"
@@ -1868,7 +1868,7 @@ msgstr "مدونة"
 #: src/components/dialogs/ServerInput.tsx:144
 #: src/components/dialogs/ServerInput.tsx:146
 msgid "Bluesky"
-msgstr "بلوسكي"
+msgstr "بلوسكاي"
 
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:655
 msgid "Bluesky cannot confirm the authenticity of the claimed date."
@@ -1877,7 +1877,7 @@ msgstr "لا تستطيع Bluesky تأكيد صحة التاريخ المطال�
 #: src/screens/Settings/AppIconSettings/useAppIconSets.ts:165
 msgctxt "Name of app icon variant"
 msgid "Bluesky Classic™"
-msgstr "بلوسكي كلاسيك™"
+msgstr "بلوسكاي كلاسيك™"
 
 #: src/components/contacts/screens/GetContacts.tsx:235
 msgid "Bluesky helps friends find each other by creating an encoded digital fingerprint, called a \"hash\", and then looking for matching hashes."
@@ -1893,7 +1893,7 @@ msgstr "Bluesky هي شبكة مفتوحة حيث يمكنك اختيار الم
 
 #: src/components/ProgressGuide/List.tsx:117
 msgid "Bluesky is better with friends!"
-msgstr "بلوسكي أفضل مع الأصدقاء!"
+msgstr "بلوسكاي أفضل مع الأصدقاء!"
 
 #: src/screens/Onboarding/StepFindContactsIntro/index.tsx:43
 msgid "Bluesky is more fun with friends"
@@ -1929,11 +1929,11 @@ msgstr "سوف يقوم Bluesky بالتحقق بشكل استباقي من ال
 
 #: src/screens/Settings/AppIconSettings/index.tsx:97
 msgid "Bluesky+"
-msgstr "بلوسكي +"
+msgstr "بلوسكاي +"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:100
 msgid "Bluesky+ icons"
-msgstr "أيقونات بلوسكي+"
+msgstr "أيقونات بلوسكاي+"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:56
 msgid "Blur images"
@@ -3585,7 +3585,7 @@ msgstr "انقر نقرًا مزدوجًا للإعجاب"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:331
 msgid "Download Bluesky"
-msgstr "تحميل بلوسكي"
+msgstr "تحميل بلوسكاي"
 
 #: src/screens/Settings/components/ExportCarDialog.tsx:115
 #: src/screens/Settings/components/ExportCarDialog.tsx:120
@@ -4772,13 +4772,13 @@ msgstr "متابعين كما تعلمون"
 #: src/view/com/notifications/NotificationFeedItem.tsx:814
 #: src/view/com/notifications/NotificationFeedItem.tsx:831
 msgid "Following"
-msgstr "التالي"
+msgstr "يتابع"
 
 #: src/screens/SavedFeeds.tsx:618
 #: src/view/screens/Feeds.tsx:595
 msgctxt "feed-name"
 msgid "Following"
-msgstr "التالي"
+msgstr "يتابع"
 
 #. placeholder {0}: sanitizeDisplayName( profile.displayName || profile.handle, moderation.ui('displayName'), )
 #. placeholder {0}: sanitizeDisplayName( profile.displayName || profile.handle, )
@@ -4787,7 +4787,7 @@ msgstr "التالي"
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:262
 #: src/view/com/notifications/NotificationFeedItem.tsx:763
 msgid "Following {0}"
-msgstr "متابعة {0}"
+msgstr "يتابع {0}"
 
 #: src/screens/VideoFeed/index.tsx:844
 msgid "Following {handle}"
@@ -4805,11 +4805,11 @@ msgstr "متابعة تفضيلات الخلاصة"
 
 #: src/screens/Profile/Header/Handle.tsx:33
 msgid "Follows you"
-msgstr "يتبعك"
+msgstr "يتابعك"
 
 #: src/components/Pills.tsx:175
 msgid "Follows You"
-msgstr "يتبعك"
+msgstr "يتابعك"
 
 #: src/screens/Settings/AppearanceSettings.tsx:128
 msgid "Font"
@@ -4829,7 +4829,7 @@ msgstr "بالنسبة للحسابات التنظيمية، استخدم تار
 
 #: src/screens/Settings/components/DeleteAccountDialog.tsx:186
 msgid "For security reasons, we’ll need to send a confirmation code to your email address <0>{currentEmail}</0>."
-msgstr "For security reasons, we’ll need to send a confirmation code to your email address <0>{currentEmail}</0>."
+msgstr "لأسباب أمنية، سنرسل رمز تأكيد إلى بريدك الإلكتروني <0>{currentEmail}</0>."
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:208
 msgid "For security reasons, you won't be able to view this again. If you lose this app password, you'll need to generate a new one."
@@ -5094,7 +5094,7 @@ msgstr "انتقل إلى المحادثة مع {0}"
 
 #: src/view/com/posts/PostFeedReason.tsx:39
 msgid "Go to feed"
-msgstr "اذهب إلى التغذية"
+msgstr "اذهب إلى التحديثات"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:174
 msgid "Go to next"
@@ -5109,7 +5109,7 @@ msgstr "انتقل إلى الملف الشخصي"
 
 #: src/screens/Messages/components/ChatListItem.tsx:184
 msgid "Go to the group chat named \"{chatName}\""
-msgstr "Go to the group chat named \"{chatName}\""
+msgstr "انتقل إلى الدردشة الجماعية \"{chatName}\""
 
 #: src/components/dms/ConvoMenu.tsx:252
 msgid "Go to user's profile"
@@ -5249,11 +5249,11 @@ msgstr "خطاب الكراهية"
 #: src/components/dialogs/EmailDialog/screens/Manage2FA/Disable.tsx:199
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:318
 msgid "Have a code? <0>Click here.</0>"
-msgstr "Have a code? <0>Click here.</0>"
+msgstr "هل لديك رمز؟ <0>اضغط هنا</0>."
 
 #: src/screens/Signup/StepInfo/index.tsx:327
 msgid "Have we got your location wrong? <0>Tap here to confirm your location with GPS.</0>"
-msgstr "Have we got your location wrong? <0>Tap here to confirm your location with GPS.</0>"
+msgstr "هل موقعك المعروض غير دقيق؟ <0>اضغط هنا لتأكيد موقعك عبر GPS</0>."
 
 #: src/screens/Signup/index.tsx:231
 msgid "Having trouble?"
@@ -5406,7 +5406,7 @@ msgstr "يخفي المحتوى"
 
 #: src/components/dialogs/BirthDateSettings.tsx:71
 msgid "Hmm, it looks like you're signed in with an <0>App Password</0>. To set your birthdate, you'll need to sign in with your main account password, or ask whomever controls this account to do so."
-msgstr "Hmm, it looks like you're signed in with an <0>App Password</0>. To set your birthdate, you'll need to sign in with your main account password, or ask whomever controls this account to do so."
+msgstr "يبدو أنك سجلت الدخول باستخدام <0>كلمة مرور تطبيق</0>. لتعيين تاريخ ميلادك، ستحتاج إلى تسجيل الدخول بكلمة مرور الحساب الرئيسية، أو طلب ذلك من الشخص الذي يدير هذا الحساب."
 
 #: src/view/com/posts/PostFeedErrorMessage.tsx:125
 msgid "Hmm, some kind of issue occurred when contacting the feed server. Please let the feed owner know about this issue."
@@ -5516,7 +5516,7 @@ msgstr "إذا لم يتم تحديد أي منها، فسيتم عرض جميع
 
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:94
 msgid "If you are 18 years of age or older and want to try again, click the button below and use a different verification method if one is available in your region. If you have questions or concerns, <0>our support team can help.</0>"
-msgstr "If you are 18 years of age or older and want to try again, click the button below and use a different verification method if one is available in your region. If you have questions or concerns, <0>our support team can help.</0>"
+msgstr "إذا كنت تبلغ 18 عامًا أو أكثر وترغب في المحاولة مرة أخرى، اضغط على الزر أدناه واستخدم طريقة تحقق أخرى إذا كانت متاحة في منطقتك. إذا كانت لديك أي أسئلة أو استفسارات، <0>فريق الدعم لدينا يمكنه مساعدتك</0>."
 
 #: src/screens/Signup/StepInfo/index.tsx:344
 msgid "If you are not yet an adult according to the laws of your country, your parent or legal guardian must read these Terms on your behalf."
@@ -5524,15 +5524,15 @@ msgstr "إذا لم تكن بالغًا بعد وفقًا لقوانين بلد�
 
 #: src/ageAssurance/components/NoAccessScreen.tsx:125
 msgid "If you believe your birthdate is incorrect, please <0>contact our support team</0>."
-msgstr "If you believe your birthdate is incorrect, please <0>contact our support team</0>."
+msgstr "إذا كنت تعتقد أن تاريخ ميلادك غير صحيح، يُرجى <0>التواصل مع فريق الدعم</0>."
 
 #: src/ageAssurance/components/NoAccessScreen.tsx:106
 msgid "If you believe your birthdate is incorrect, you can update it by <0>clicking here</0>."
-msgstr "If you believe your birthdate is incorrect, you can update it by <0>clicking here</0>."
+msgstr "إذا كنت تعتقد أن تاريخ ميلادك غير صحيح، يمكنك تحديثه عبر <0>الضغط هنا</0>."
 
 #: src/features/liveEvents/components/LiveEventFeedOptionsMenu.tsx:118
 msgid "If you choose to hide all events, you can always re-enable them from <0>Settings → Content & Media</0>."
-msgstr "If you choose to hide all events, you can always re-enable them from <0>Settings → Content & Media</0>."
+msgstr "إذا اخترت إخفاء جميع الأحداث، يمكنك إعادة تفعيلها في أي وقت من خلال <0>الإعدادات ← المحتوى والوسائط</0>."
 
 #: src/screens/ProfileList/components/MoreOptionsMenu.tsx:272
 msgid "If you delete this list, you won't be able to recover it."
@@ -5540,11 +5540,11 @@ msgstr "إذا قمت بحذف هذه القائمة، فلن تتمكن من ا
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:274
 msgid "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
-msgstr "If you have your own domain, you can use that as your handle. This lets you self-verify your identity. <0>Learn more here.</0>"
+msgstr "إذا كان لديك نطاق خاص بك، يمكنك استخدامه كاسم المستخدم الخاص بك، مما يتيح لك التحقق من هويتك ذاتيًا. <0>تعرف على المزيد هنا</0>."
 
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:273
 msgid "If you need to update your email, <0>click here</0>."
-msgstr "If you need to update your email, <0>click here</0>."
+msgstr "إذا كنت بحاجة إلى تحديث بريدك الإلكتروني، <0>اضغط هنا</0>."
 
 #: src/components/PostControls/PostMenu/PostMenuItems.tsx:801
 msgid "If you remove this post, you won't be able to recover it."
@@ -5561,7 +5561,7 @@ msgstr "إذا كنت تريد تغيير كلمة المرور الخاصة ب�
 #: src/screens/Settings/NotificationSettings/ActivityNotificationSettings.tsx:160
 #: src/view/screens/Storybook/Admonitions.tsx:90
 msgid "If you want to restrict who can receive notifications for your account's activity, you can change this in <0>Settings → Privacy and Security</0>."
-msgstr "If you want to restrict who can receive notifications for your account's activity, you can change this in <0>Settings → Privacy and Security</0>."
+msgstr "إذا كنت ترغب في تقييد من يمكنه تلقي الإشعارات المتعلقة بنشاط حسابك، يمكنك تغيير ذلك من خلال <0>الإعدادات ← الخصوصية والأمان</0>."
 
 #: src/components/dialogs/ServerInput.tsx:210
 msgid "If you're a developer, you can host your own server."
@@ -5589,7 +5589,7 @@ msgstr "الصورة {0} من {1}"
 #. placeholder {0}: index + 1
 #: src/components/images/Gallery/index.tsx:418
 msgid "Image {0} of {imageCount}"
-msgstr "Image {0} of {imageCount}"
+msgstr "الصورة {0} من {imageCount}"
 
 #: src/screens/Settings/AboutSettings.tsx:63
 msgid "Image cache cleared"
@@ -5835,7 +5835,7 @@ msgstr "دعوات، ولكن شخصية"
 #: src/ageAssurance/components/NoAccessScreen.tsx:394
 #: src/components/ageAssurance/AgeAssuranceAccountCard.tsx:113
 msgid "Is your location not accurate? <0>Tap here to confirm your location.</0> "
-msgstr "Is your location not accurate? <0>Tap here to confirm your location.</0> "
+msgstr "هل موقعك غير دقيق؟ <0>اضغط هنا لتأكيد موقعك</0>."
 
 #: src/components/contacts/components/InviteInfo.tsx:47
 msgid "It looks like some of your contacts have not tried to find you here yet. You can personally invite them by customizing a draft message we will provide."
@@ -5848,7 +5848,7 @@ msgstr "هذا صحيح"
 #. placeholder {0}: getName(items[0])
 #: src/screens/StarterPack/Wizard/index.tsx:483
 msgid "It's just <0>{0} </0>right now! Add more people to your starter pack by searching above."
-msgstr "It's just <0>{0} </0>right now! Add more people to your starter pack by searching above."
+msgstr "حالياً يوجد فقط <0>{0}</0>! أضف المزيد من الأشخاص إلى حزمة البداية الخاصة بك من خلال البحث أعلاه."
 
 #: src/screens/StarterPack/Wizard/index.tsx:478
 msgid "It's just you right now! Add more people to your starter pack by searching above."
@@ -5869,7 +5869,7 @@ msgstr "وظائف"
 #: src/screens/StarterPack/StarterPackScreen.tsx:478
 #: src/screens/StarterPack/StarterPackScreen.tsx:489
 msgid "Join Bluesky"
-msgstr "انضم إلى بلوسكي"
+msgstr "انضم إلى بلوسكاي"
 
 #: src/components/StarterPack/QrCode.tsx:72
 #: src/view/shell/NavSignupCard.tsx:41
@@ -6062,7 +6062,7 @@ msgstr "اترك هذه الدردشة الجماعية"
 #: src/components/dialogs/LinkWarning.tsx:83
 #: src/components/dialogs/LinkWarning.tsx:91
 msgid "Leaving Bluesky"
-msgstr "مغادرة بلوسكي"
+msgstr "مغادرة بلوسكاي"
 
 #: src/screens/SignupQueued.tsx:158
 msgid "left to go."
@@ -8498,7 +8498,7 @@ msgstr "إقرأ منشور مدونتنا"
 
 #: src/view/com/auth/SplashScreen.web.tsx:178
 msgid "Read the Bluesky blog"
-msgstr "اقرأ مدونة بلوسكي"
+msgstr "اقرأ مدونة بلوسكاي"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:53
 #: src/screens/Signup/StepInfo/Policies.tsx:79
@@ -8955,7 +8955,7 @@ msgstr "إعادة النشر"
 #. placeholder {0}: repostCount || 0
 #: src/components/PostControls/RepostButton.tsx:78
 msgid "Repost ({0, plural, one {# repost} other {# reposts}})"
-msgstr "Repost ({0, plural, one {# repost} other {# reposts}})"
+msgstr "إعادة النشر ({0, plural, one {# إعادة نشر} other {# إعادة نشر}})"
 
 #: src/Navigation.tsx:481
 msgid "Repost notifications"
@@ -8975,7 +8975,7 @@ msgstr "تم إعادة النشر بواسطة"
 #: src/view/com/posts/PostFeedReason.tsx:78
 #: src/view/com/posts/PostFeedReason.tsx:97
 msgid "Reposted by {reposter}"
-msgstr "Reposted by {reposter}"
+msgstr "تمت إعادة النشر بواسطة {reposter}"
 
 #: src/view/com/posts/PostFeedReason.tsx:78
 #: src/view/com/posts/PostFeedReason.tsx:95
@@ -9036,7 +9036,7 @@ msgstr "إعادة إرسال الرمز"
 #. placeholder {0}: String( clamp(Math.round(timeUntilCanResend / 1000), 0, 30), ).padStart(2, '0')
 #: src/components/contacts/screens/VerifyNumber.tsx:372
 msgid "Resend code in <0>00:{0}</0>"
-msgstr "Resend code in <0>00:{0}</0>"
+msgstr "إعادة إرسال الرمز خلال <0>00:{0}</0>"
 
 #: src/screens/Settings/components/DisableEmail2FADialog.tsx:174
 #: src/screens/Settings/components/DisableEmail2FADialog.tsx:177
@@ -9392,19 +9392,19 @@ msgstr "راجع {0} مشاركات بواسطة المستخدم"
 
 #: src/components/RichTextTag.tsx:122
 msgid "See {tag} posts"
-msgstr "See {tag} posts"
+msgstr "عرض منشورات {tag}"
 
 #: src/components/RichTextTag.tsx:140
 msgid "See {tag} posts by user"
-msgstr "See {tag} posts by user"
+msgstr "عرض منشورات {tag} من هذا المستخدم"
 
 #: src/components/RichTextTag.tsx:124
 msgid "See #{tag} posts"
-msgstr "See #{tag} posts"
+msgstr "عرض منشورات #{tag}"
 
 #: src/components/RichTextTag.tsx:142
 msgid "See #{tag} posts by user"
-msgstr "See #{tag} posts by user"
+msgstr "عرض منشورات #{tag} من هذا المستخدم"
 
 #: src/view/com/auth/SplashScreen.web.tsx:183
 msgid "See jobs at Bluesky"
@@ -9436,7 +9436,7 @@ msgstr "تسعى المنزلق. استخدم مفاتيح الأسهم للتح
 #. Accessibility label for a category (e.g. Art, Video Games, Sports, etc.) that shows suggested accounts for the user to follow. The tab is not currently active and can be selected.
 #: src/components/InterestTabs.tsx:337
 msgid "Select \"{interestsDisplayName}\" category"
-msgstr "Select \"{interestsDisplayName}\" category"
+msgstr "اختر فئة \"{interestsDisplayName}\""
 
 #. Accessibility label for a username suggestion in the account creation flow
 #. placeholder {0}: suggestion.handle
@@ -9508,7 +9508,7 @@ msgstr "اختر من القوائم الخاصة بك"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:555
 msgid "Select from your lists <0>{numberOfListsSelected, plural, other {(# selected)}}</0>"
-msgstr "Select from your lists <0>{numberOfListsSelected, plural, other {(# selected)}}</0>"
+msgstr "اختر من قوائمك <0>{numberOfListsSelected, plural, other {(تم اختيار #)}}</0>"
 
 #: src/view/com/composer/photos/SelectGifBtn.tsx:36
 msgid "Select GIF"
@@ -9643,7 +9643,7 @@ msgstr "أرسل المنشور إلى..."
 
 #: src/components/moderation/ReportDialog/index.tsx:824
 msgid "Send report to {title}"
-msgstr "Send report to {title}"
+msgstr "إرسال البلاغ إلى {title}"
 
 #: src/components/contacts/components/InviteInfo.tsx:63
 msgid "Send the message from your phone"
@@ -10657,7 +10657,7 @@ msgstr "تاريخ الميلاد الذي أدخلته يعني أن عمرك �
 
 #: src/screens/Moderation/index.tsx:415
 msgid "The Bluesky web application"
-msgstr "تطبيق الويب بلوسكي"
+msgstr "تطبيق الويب بلوسكاي"
 
 #: src/view/screens/CommunityGuidelines.tsx:32
 msgid "The Community Guidelines have been moved to <0/>"
@@ -10731,7 +10731,7 @@ msgstr "موضوع قائمة السياق"
 
 #: src/view/screens/Support.tsx:31
 msgid "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
-msgstr "The support form has been moved. If you need help, please <0/> or visit {HELP_DESK_URL} to get in touch with us."
+msgstr "تم نقل نموذج الدعم. إذا كنت بحاجة إلى مساعدة، يُرجى <0/> أو زيارة {HELP_DESK_URL} للتواصل معنا."
 
 #: src/view/screens/TermsOfService.tsx:29
 msgid "The Terms of Service have been moved to"
@@ -10974,7 +10974,7 @@ msgstr "تتيح هذه الميزة للمستخدمين تلقي إشعارا�
 
 #: src/screens/Settings/components/ExportCarDialog.tsx:153
 msgid "This feature is in beta. You can read more about repository exports in <0>this blogpost</0>."
-msgstr "This feature is in beta. You can read more about repository exports in <0>this blogpost</0>."
+msgstr "هذه الميزة في مرحلة تجريبية. يمكنك قراءة المزيد عن تصدير المستودعات في <0>هذه المقالة</0>."
 
 #: src/lib/hooks/useCleanError.ts:64
 msgid "This feature is not available while using an app password. Please sign in with your main password."
@@ -11000,7 +11000,7 @@ msgstr "هذه الخلاصة فارغة."
 
 #: src/view/com/posts/FeedShutdownMsg.tsx:104
 msgid "This feed is no longer online. We are showing <0>Discover</0> instead."
-msgstr "This feed is no longer online. We are showing <0>Discover</0> instead."
+msgstr "هذا الخلاصة لم يعد متاحًا. نعرض لك الآن <0>استكشاف</0> بدلًا منه."
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:611
 msgid "This handle is reserved. Please try a different one."
@@ -11046,7 +11046,7 @@ msgstr "وهذا الرابط ينقلك إلى الموقع التالي:"
 #. placeholder {0}: sanitizeHandle(list.creator.handle, '@')
 #: src/screens/List/ListHiddenScreen.tsx:155
 msgid "This list – created by <0>{0}</0> – contains possible violations of Bluesky's community guidelines in its name or description."
-msgstr "This list – created by <0>{0}</0> – contains possible violations of Bluesky's community guidelines in its name or description."
+msgstr "هذه القائمة – التي أنشأها <0>{0}</0> – تحتوي على انتهاكات محتملة لإرشادات مجتمع Bluesky في الاسم أو الوصف."
 
 #: src/screens/List/ListHiddenScreen.tsx:150
 msgid "This list – created by you – contains possible violations of Bluesky's community guidelines in its name or description."
@@ -11104,7 +11104,7 @@ msgstr "لم توفر هذه الخدمة شروط الخدمة أو سياسة 
 
 #: src/features/liveNow/index.tsx:200
 msgid "This service is not supported while the Live feature is in beta. Allowed services: {formatted}."
-msgstr "This service is not supported while the Live feature is in beta. Allowed services: {formatted}."
+msgstr "هذه الخدمة غير مدعومة أثناء كون ميزة البث المباشر في مرحلة تجريبية. الخدمات المسموح بها: {formatted}."
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:469
 msgid "This should create a domain record at:"
@@ -11138,12 +11138,12 @@ msgstr "لقد طلب هذا المستخدم أن يتم عرض المحتوى 
 #. placeholder {0}: list.name
 #: src/components/moderation/ModerationDetailsDialog.tsx:62
 msgid "This user is included in the <0>{0}</0> list which you have blocked."
-msgstr "This user is included in the <0>{0}</0> list which you have blocked."
+msgstr "هذا المستخدم موجود في قائمة <0>{0}</0> التي قمت بحظرها."
 
 #. placeholder {0}: list.name
 #: src/components/moderation/ModerationDetailsDialog.tsx:94
 msgid "This user is included in the <0>{0}</0> list which you have muted."
-msgstr "This user is included in the <0>{0}</0> list which you have muted."
+msgstr "هذا المستخدم موجود في قائمة <0>{0}</0> التي قمت بكتمها."
 
 #: src/components/NewskieDialog.tsx:49
 msgid "This user is new here. Press for more info about when they joined."
@@ -11164,7 +11164,7 @@ msgstr "سيؤدي هذا إلى حذف \"{0}\" من الكلمات المكتو
 
 #: src/screens/Settings/components/DeleteAccountDialog.tsx:330
 msgid "This will irreversibly delete your Bluesky account <0>{currentHandle}</0> and all associated data. Note that this will affect any other <1>AT Protocol</1> services you use with this account."
-msgstr "This will irreversibly delete your Bluesky account <0>{currentHandle}</0> and all associated data. Note that this will affect any other <1>AT Protocol</1> services you use with this account."
+msgstr "سيؤدي هذا إلى حذف حساب Bluesky الخاص بك <0>{currentHandle}</0> وجميع البيانات المرتبطة به بشكل نهائي لا يمكن التراجع عنه. لاحظ أن هذا سيؤثر أيضًا على أي خدمات <1>AT Protocol</1> أخرى تستخدمها بهذا الحساب."
 
 #. placeholder {0}: account.handle
 #: src/screens/Settings/Settings.tsx:668
@@ -11215,7 +11215,7 @@ msgstr "لتعطيل طريقة المصادقة الثنائية (2FA) للبر
 #: src/components/dialogs/EmailDialog/screens/Manage2FA/Disable.tsx:165
 #: src/components/dialogs/EmailDialog/screens/Manage2FA/Disable.tsx:216
 msgid "To disable your email 2FA method, please verify your access to <0>{0}</0>"
-msgstr "To disable your email 2FA method, please verify your access to <0>{0}</0>"
+msgstr "لتعطيل طريقة التحقق الثنائي عبر البريد الإلكتروني، يُرجى تأكيد إمكانية وصولك إلى <0>{0}</0>"
 
 #: src/ageAssurance/components/NoAccessScreen.tsx:251
 msgid "To log out, <0>click here</0>. Or if you’d prefer, you can <1>delete your account</1>."
@@ -11315,12 +11315,12 @@ msgstr "التصيد"
 
 #: src/components/dialogs/nuxs/InitialVerificationAnnouncement.tsx:140
 msgid "Trust emerges from relationships, communities, and shared context, so we’re also enabling <0>trusted verifiers</0>: organizations that can directly issue verification."
-msgstr "Trust emerges from relationships, communities, and shared context, so we’re also enabling <0>trusted verifiers</0>: organizations that can directly issue verification."
+msgstr "تنشأ الثقة من العلاقات والمجتمعات والسياق المشترك، لذلك نقوم أيضًا بتفعيل <0>الجهات الموثوقة للتحقق</0>، وهي منظمات يمكنها إصدار التحقق بشكل مباشر."
 
 #: src/screens/Search/SearchResults.tsx:186
 msgctxt "english-only-resource"
 msgid "Try a different search term, or <0>read about how to use search filters</0>."
-msgstr "Try a different search term, or <0>read about how to use search filters</0>."
+msgstr "جرّب مصطلح بحث مختلف، أو <0>اطّلع على كيفية استخدام فلاتر البحث</0>."
 
 #: src/view/com/util/error/ErrorScreen.tsx:104
 msgctxt "action"
@@ -11384,7 +11384,7 @@ msgstr "إلغاء تطبيق طلب السحب"
 
 #: src/screens/Settings/Settings.tsx:517
 msgid "Unapply Pull Request {currentChannel}"
-msgstr "Unapply Pull Request {currentChannel}"
+msgstr "إلغاء تطبيق طلب السحب {currentChannel}"
 
 #: src/components/ageAssurance/AgeRestrictedScreen.tsx:43
 msgid "Unavailable"
@@ -11660,7 +11660,7 @@ msgstr "تحديث رابط الدعوة"
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:544
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:565
 msgid "Update to {domain}"
-msgstr "Update to {domain}"
+msgstr "تحديث إلى {domain}"
 
 #: src/screens/Messages/Conversation.tsx:355
 msgid "Update your app to the latest version to join in!"
