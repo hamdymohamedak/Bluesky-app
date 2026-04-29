@@ -8775,7 +8775,7 @@ msgstr "استبدل باكتشاف"
 #: src/components/Post/PostRepliedTo.tsx:39
 msgctxt "description"
 msgid "Replied to <0><1/></0>"
-msgstr "Replied to <0><1/></0>"
+msgstr "تم الرد على <0><1/></0>"
 
 #: src/components/Post/PostRepliedTo.tsx:28
 msgctxt "description"
@@ -8819,7 +8819,7 @@ msgstr "رد"
 #. placeholder {0}: post.replyCount || 0
 #: src/components/PostControls/index.tsx:243
 msgid "Reply ({0, plural, one {# reply} other {# replies}})"
-msgstr "Reply ({0, plural, one {# reply} other {# replies}})"
+msgstr "رد ({0, plural, one {# رد} other {# ردود}})"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:119
 #: src/lib/moderation/useModerationCauseDescription.ts:126
@@ -9299,16 +9299,16 @@ msgstr "بحث في التحديثات"
 #. Accessibility label for a tab that searches for accounts in a category (e.g. Art, Video Games, Sports, etc.) that are suggested for the user to follow. The tab is not currently active and can be selected.
 #: src/components/ProgressGuide/FollowDialog.tsx:505
 msgid "Search for \"{interestsDisplayName}\""
-msgstr "Search for \"{interestsDisplayName}\""
+msgstr "ابحث عن \"{interestsDisplayName}\""
 
 #. Accessibility label for a tab that searches for accounts in a category (e.g. Art, Video Games, Sports, etc.) that are suggested for the user to follow. The tab is currently selected.
 #: src/components/ProgressGuide/FollowDialog.tsx:500
 msgid "Search for \"{interestsDisplayName}\" (active)"
-msgstr "Search for \"{interestsDisplayName}\" (active)"
+msgstr "ابحث عن \"{interestsDisplayName}\" (نشط)"
 
 #: src/screens/Search/components/AutocompleteResults.tsx:54
 msgid "Search for \"{searchText}\""
-msgstr "Search for \"{searchText}\""
+msgstr "ابحث عن \"{searchText}\""
 
 #: src/screens/StarterPack/Wizard/index.tsx:541
 msgid "Search for feeds that you want to suggest to others."
@@ -9560,7 +9560,7 @@ msgstr "حدد رمز الهاتف"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:84
 msgid "Select the {emojiName} emoji as your avatar"
-msgstr "Select the {emojiName} emoji as your avatar"
+msgstr "اختر رمز {emojiName} التعبيري كصورة رمزية لك"
 
 #: src/components/Post/Translated/index.tsx:446
 msgid "Select the source language"
@@ -9636,7 +9636,7 @@ msgstr "أرسل رسالة"
 
 #: src/components/PostControls/ShareMenu/RecentChats.tsx:136
 msgid "Send post to {name}"
-msgstr "Send post to {name}"
+msgstr "إرسال المنشور إلى {name}"
 
 #: src/components/dms/dialogs/ShareViaChatDialog.tsx:72
 msgid "Send post to..."
@@ -10153,7 +10153,7 @@ msgstr "تفاعل شخص ما مع {0}"
 #. placeholder {0}: reaction.value
 #: src/components/dms/getReactionInfo.ts:47
 msgid "Someone reacted {0} to {target}"
-msgstr "Someone reacted {0} to {target}"
+msgstr "قام شخص ما بالتفاعل بـ {0} على {target}"
 
 #: src/components/dms/getSystemMessageInfo.ts:42
 msgid "Someone was added to the group"
@@ -10225,7 +10225,7 @@ msgstr "فرز الردود على نفس المشاركة حسب:"
 #: src/components/moderation/LabelsOnMeDialog.tsx:183
 #: src/components/moderation/ModerationDetailsDialog.tsx:189
 msgid "Source: <0>{sourceName}</0>"
-msgstr "Source: <0>{sourceName}</0>"
+msgstr "المصدر: <0>{sourceName}</0>"
 
 #: src/components/moderation/ReportDialog/utils/useReportOptions.ts:39
 msgid "Spam"
@@ -10265,7 +10265,7 @@ msgstr "ابدأ الدردشة"
 #: src/components/dialogs/SearchablePeopleList.tsx:427
 #: src/components/dms/InitiateChatFlow.tsx:777
 msgid "Start chat with {displayName}"
-msgstr "Start chat with {displayName}"
+msgstr "ابدأ محادثة مع {displayName}"
 
 #: src/Navigation.tsx:605
 #: src/Navigation.tsx:610
@@ -10348,7 +10348,7 @@ msgstr "البث على تويتش؟ قم بتعيين حالتك المباشر
 #: src/screens/Messages/components/ChatDisabled.tsx:157
 #: src/screens/Messages/components/ChatDisabled.tsx:158
 msgid "Submit"
-msgstr "يُقدِّم"
+msgstr "إرسال"
 
 #: src/screens/Takendown.tsx:76
 msgid "Submit appeal"
@@ -10421,7 +10421,7 @@ msgstr "مقترحة لك"
 #: src/view/com/composer/labels/LabelsBtn.tsx:140
 #: src/view/com/composer/labels/LabelsBtn.tsx:143
 msgid "Suggestive"
-msgstr "موحية"
+msgstr "إيحائي"
 
 #: src/screens/Settings/AppIconSettings/useAppIconSets.ts:72
 msgctxt "Name of app icon variant"
@@ -11017,7 +11017,7 @@ msgstr "هذه المعلومات خاصة ولا يتم مشاركتها مع �
 
 #: src/view/screens/Debug.tsx:327
 msgid "This is an empty state"
-msgstr "هذه دولة فارغة"
+msgstr "هذه حالة فارغة"
 
 #: src/features/liveNow/components/EditLiveDialog.tsx:178
 #: src/features/liveNow/components/GoLiveDialog.tsx:155
@@ -11220,7 +11220,7 @@ msgstr "لتعطيل طريقة التحقق الثنائي عبر البريد 
 
 #: src/ageAssurance/components/NoAccessScreen.tsx:251
 msgid "To log out, <0>click here</0>. Or if you’d prefer, you can <1>delete your account</1>."
-msgstr "To log out, <0>click here</0>. Or if you’d prefer, you can <1>delete your account</1>."
+msgstr "لتسجيل الخروج، <0>اضغط هنا</0>. أو إذا كنت تفضل، يمكنك <1>حذف حسابك</1>."
 
 #: src/components/dms/ReportConversationPrompt.tsx:19
 msgid "To report a conversation, please report one of its messages via the conversation screen. This lets our moderators understand the context of your issue."
@@ -12242,16 +12242,16 @@ msgstr "نحن لا نقوم بتخزين أرقام هواتف أصدقائك �
 
 #: src/screens/SignupQueued.tsx:163
 msgid "We estimate {estimatedTime} until your account is ready."
-msgstr "We estimate {estimatedTime} until your account is ready."
+msgstr "نقدّر أن حسابك سيكون جاهزًا خلال {estimatedTime}."
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:197
 msgid "We have partnered with <0>KWS</0> to handle age verification. When you click \"Begin\" below, KWS will email you instructions to complete the verification process. If your email address has already been used to verify your age for another game or service that uses KWS, you won’t need to do it again. When you’re done, you'll be brought back to continue using Bluesky."
-msgstr "We have partnered with <0>KWS</0> to handle age verification. When you click \"Begin\" below, KWS will email you instructions to complete the verification process. If your email address has already been used to verify your age for another game or service that uses KWS, you won’t need to do it again. When you’re done, you'll be brought back to continue using Bluesky."
+msgstr "لقد عقدنا شراكة مع <0>KWS</0> للتعامل مع التحقق من العمر. عند النقر على \"ابدأ\" أدناه، ستقوم KWS بإرسال تعليمات عبر البريد الإلكتروني لاستكمال عملية التحقق. إذا كان عنوان بريدك الإلكتروني قد استُخدم سابقًا للتحقق من عمرك في لعبة أو خدمة أخرى تستخدم KWS، فلن تحتاج للقيام بذلك مرة أخرى. عند الانتهاء، سيتم إعادتك لمتابعة استخدام Bluesky."
 
 #. placeholder {0}: currentAccount?.email
 #: src/components/intents/VerifyEmailIntentDialog.tsx:102
 msgid "We have sent another verification email to <0>{0}</0>."
-msgstr "We have sent another verification email to <0>{0}</0>."
+msgstr "لقد أرسلنا رسالة تحقق أخرى إلى <0>{0}</0>."
 
 #: src/components/contacts/screens/PhoneInput.tsx:184
 msgid "We need to verify your number before we can look for your friends. A verification code will be sent to this number."
@@ -12276,7 +12276,7 @@ msgstr "نوصي باختيار اهتمامين على الأقل."
 #. placeholder {0}: currentAccount!.email
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:241
 msgid "We sent an email to <0>{0}</0> containing a link. Please click on it to complete the email verification process."
-msgstr "We sent an email to <0>{0}</0> containing a link. Please click on it to complete the email verification process."
+msgstr "أرسلنا رسالة بريد إلكتروني إلى <0>{0}</0> تحتوي على رابط. يرجى الضغط عليه لإكمال عملية التحقق من البريد الإلكتروني."
 
 #: src/view/com/composer/state/video.ts:418
 msgid "We were unable to determine if you are allowed to upload videos. Please try again."
@@ -12310,7 +12310,7 @@ msgstr "سنقوم بإعلامك عندما نجد أصدقائك."
 #. placeholder {0}: currentAccount!.email
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:250
 msgid "We'll send an email to <0>{0}</0> containing a link. Please click on it to complete the email verification process."
-msgstr "We'll send an email to <0>{0}</0> containing a link. Please click on it to complete the email verification process."
+msgstr "سنرسل رسالة بريد إلكتروني إلى <0>{0}</0> تحتوي على رابط. يرجى الضغط عليه لإكمال عملية التحقق من البريد الإلكتروني."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:62
 msgid "We'll use this to help customize your experience."
@@ -12318,7 +12318,7 @@ msgstr "سنستخدم هذا للمساعدة في تخصيص تجربتك."
 
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:140
 msgid "We're also updating our <0>Community Guidelines</0>, and we want your input! These new guidelines will take effect on October 15th, 2025."
-msgstr "We're also updating our <0>Community Guidelines</0>, and we want your input! These new guidelines will take effect on October 15th, 2025."
+msgstr "نقوم أيضًا بتحديث <0>إرشادات المجتمع</0>، ونود معرفة رأيك! ستدخل هذه الإرشادات الجديدة حيز التنفيذ في 15 أكتوبر 2025."
 
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:83
 msgid "We're also updating our Community Guidelines, and we want your input! These new guidelines will take effect on October 15th, 2025."
@@ -12331,7 +12331,7 @@ msgstr "نحن نؤكد حالة ضمان العمر الخاص بك مع خوا
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:151
 msgid "We're having issues initializing the age assurance process for your account. Please <0>contact support</0> for assistance."
-msgstr "We're having issues initializing the age assurance process for your account. Please <0>contact support</0> for assistance."
+msgstr "نواجه مشكلة في تهيئة عملية التحقق من العمر لحسابك. يرجى <0>التواصل مع الدعم</0> للحصول على المساعدة."
 
 #: src/components/dialogs/SearchablePeopleList.tsx:126
 #: src/components/ProgressGuide/FollowDialog.tsx:195
@@ -12358,7 +12358,7 @@ msgstr "عذرًا، ولكن استنادًا إلى موقع جهازك، فأ
 
 #: src/screens/ProfileList/index.tsx:88
 msgid "We're sorry, but we were unable to resolve this list. If this persists, please contact the list creator, @{handleOrDid}."
-msgstr "We're sorry, but we were unable to resolve this list. If this persists, please contact the list creator, @{handleOrDid}."
+msgstr "نأسف، لكن لم نتمكن من حل هذه القائمة. إذا استمرت المشكلة، يرجى التواصل مع منشئ القائمة، @{handleOrDid}."
 
 #: src/components/dialogs/MutedWords.tsx:387
 msgid "We're sorry, but we weren't able to load your muted words at this time. Please try again."
@@ -12388,7 +12388,7 @@ msgstr "آسفون! لا يمكنك الاشتراك إلا في عشرين مُ
 
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:123
 msgid "We’re updating our <0>Terms of Service</0>, <1>Privacy Policy</1>, and <2>Copyright Policy</2>, effective September 15th, 2025."
-msgstr "We’re updating our <0>Terms of Service</0>, <1>Privacy Policy</1>, and <2>Copyright Policy</2>, effective September 15th, 2025."
+msgstr "نقوم بتحديث <0>شروط الخدمة</0> و<1>سياسة الخصوصية</1> و<2>سياسة حقوق النشر</2>، على أن تدخل حيز التنفيذ في 15 سبتمبر 2025."
 
 #: src/components/PolicyUpdateOverlay/updates/202508/index.tsx:64
 msgid "We're updating our policies"
@@ -12744,7 +12744,7 @@ msgstr "لقد أكملت عملية ضمان العمر، ولكن بناءً �
 
 #: src/view/screens/Notifications.tsx:294
 msgid "You have completely disabled reply, quote, and mention notifications, so this tab will no longer update. To adjust this, visit your <0>notification settings</0>."
-msgstr "You have completely disabled reply, quote, and mention notifications, so this tab will no longer update. To adjust this, visit your <0>notification settings</0>."
+msgstr "لقد عطّلت إشعارات الردود والاقتباسات والإشارات بشكل كامل، لذلك لن يتم تحديث هذه الصفحة بعد الآن. لتعديل ذلك، يرجى زيارة <0>إعدادات الإشعارات</0>."
 
 #: src/screens/Login/SetNewPasswordForm.tsx:51
 #: src/screens/Login/SetNewPasswordForm.tsx:97
@@ -12857,7 +12857,7 @@ msgstr "يمكنك الطعن في هذه التصنيفات إذا شعرت أ�
 
 #: src/screens/StarterPack/Wizard/State.tsx:80
 msgid "You may only add up to {STARTER_PACK_MAX_SIZE, plural, other {{STARTER_PACK_MAX_SIZE} profiles}}"
-msgstr "You may only add up to {STARTER_PACK_MAX_SIZE, plural, other {{STARTER_PACK_MAX_SIZE} profiles}}"
+msgstr "يمكنك إضافة ما يصل إلى {STARTER_PACK_MAX_SIZE, plural, other {{STARTER_PACK_MAX_SIZE} ملفًا شخصيًا}} فقط"
 
 #: src/screens/StarterPack/Wizard/State.tsx:101
 msgid "You may only add up to 3 feeds"
@@ -12865,7 +12865,7 @@ msgstr "يمكنك إضافة ما يصل إلى 3 خلاصات فقط"
 
 #: src/components/dialogs/BirthDateSettings.tsx:173
 msgid "You must be at least 13 years old to use Bluesky. Read our <0>Terms of Service</0> for more information."
-msgstr "You must be at least 13 years old to use Bluesky. Read our <0>Terms of Service</0> for more information."
+msgstr "يجب أن يكون عمرك 13 عامًا على الأقل لاستخدام Bluesky. اقرأ <0>شروط الخدمة</0> الخاصة بنا لمزيد من المعلومات."
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:365
 msgid "You must be following at least seven other people to generate a starter pack."
@@ -12936,7 +12936,7 @@ msgstr "لن تتمكن من الانضمام مجددًا إلا إذا تمت 
 #. When the last message in a chat was made by you.
 #: src/components/dms/getMessageInfo.ts:43
 msgid "You: {message}"
-msgstr "You: {message}"
+msgstr "أنت: {message}"
 
 #: src/screens/Signup/index.tsx:152
 msgid "You'll follow the suggested users and feeds once you finish creating your account!"
@@ -13072,24 +13072,24 @@ msgstr "سيتم تذكر اختيارك للروابط المستقبلية. ي
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:365
 msgid "Your contact {firstAuthorLink} is on Bluesky"
-msgstr "Your contact {firstAuthorLink} is on Bluesky"
+msgstr "جهة الاتصال الخاصة بك {firstAuthorLink} موجودة على Bluesky"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:363
 msgid "Your contact {firstAuthorName} is on Bluesky"
-msgstr "Your contact {firstAuthorName} is on Bluesky"
+msgstr "جهة الاتصال الخاصة بك {firstAuthorName} موجودة على Bluesky"
 
 #: src/components/contacts/screens/ViewMatches.tsx:454
 msgid "Your contact {name}"
-msgstr "Your contact {name}"
+msgstr "جهة الاتصال الخاصة بك {name}"
 
 #. placeholder {0}: sanitizeHandle(currentAccount?.handle || '', '@')
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:531
 msgid "Your current handle <0>{0}</0> will automatically remain reserved for you. You can switch back to it at any time from this account."
-msgstr "Your current handle <0>{0}</0> will automatically remain reserved for you. You can switch back to it at any time from this account."
+msgstr "مُعرّفك الحالي <0>{0}</0> سيبقى محجوزًا تلقائيًا لك. يمكنك العودة إليه في أي وقت من هذا الحساب."
 
 #: src/screens/Moderation/index.tsx:231
 msgid "Your declared age is under 18. Some settings below may be disabled. If this was a mistake, you may edit your birthdate in your <0>account settings</0>."
-msgstr "Your declared age is under 18. Some settings below may be disabled. If this was a mistake, you may edit your birthdate in your <0>account settings</0>."
+msgstr "عمرك المصرح به أقل من 18 عامًا. قد يتم تعطيل بعض الإعدادات أدناه. إذا كان هذا خطأ، يمكنك تعديل تاريخ ميلادك في <0>إعدادات الحساب</0>."
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:252
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:256
@@ -13123,7 +13123,7 @@ msgstr "خلاصتك التالية فارغة! اتبع المزيد من ال�
 #. placeholder {0}: createFullHandle(subdomain, host)
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:247
 msgid "Your full handle will be <0>@{0}</0>"
-msgstr "Your full handle will be <0>@{0}</0>"
+msgstr "سيكون اسمك الكامل <0>@{0}</0>"
 
 #: src/Navigation.tsx:537
 #: src/screens/Search/modules/ExploreInterestsCard.tsx:68
