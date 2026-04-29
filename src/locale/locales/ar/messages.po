@@ -44,63 +44,63 @@ msgstr "{0, plural, one {# اتابع} other {# يتابعون}}"
 #. placeholder {0}: item.count
 #: src/components/contacts/screens/ViewMatches.tsx:268
 msgid "{0, plural, one {# friend found!} other {# friends found!}}"
-msgstr "{0, plural, one {# friend found!} other {# friends found!}}"
+msgstr "{0, plural, one {تم العثور على # صديق!} other {تم العثور على # أصدقاء!}}"
 
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:159
 msgid "{0, plural, one {# hour} other {# hours}}"
-msgstr "{0, plural, one {# hour} other {# hours}}"
+msgstr "{0, plural, one {# ساعة} other {# ساعات}}"
 
 #. placeholder {0}: labels.length
 #: src/components/moderation/LabelsOnMe.tsx:63
 msgid "{0, plural, one {# label has} other {# labels have}} been placed on this account"
-msgstr "{0, plural, one {# label has} other {# labels have}} been placed on this account"
+msgstr "{0, plural, one {تم وضع # تصنيف} other {تم وضع # تصنيفات}} على هذا الحساب"
 
 #. placeholder {0}: labels.length
 #: src/components/moderation/LabelsOnMe.tsx:72
 msgid "{0, plural, one {# label has} other {# labels have}} been placed on this content"
-msgstr "{0, plural, one {# label has} other {# labels have}} been placed on this content"
+msgstr "{0, plural, one {تم وضع # تصنيف} other {تم وضع # تصنيفات}} على هذا المحتوى"
 
 #. placeholder {0}: likeCount ?? 0
 #: src/screens/Post/PostLikedBy.tsx:34
 msgid "{0, plural, one {# like} other {# likes}}"
-msgstr "{0, plural, one {# like} other {# likes}}"
+msgstr "{0, plural, one {# إعجاب} other {# إعجابات}}"
 
 #. placeholder {0}: convo.members.length
 #: src/components/dialogs/SearchablePeopleList.tsx:553
 msgid "{0, plural, one {# member} other {# members}}"
-msgstr "{0, plural, one {# member} other {# members}}"
+msgstr "{0, plural, one {# عضو} other {# أعضاء}}"
 
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:149
 msgid "{0, plural, one {# minute} other {# minutes}}"
-msgstr "{0, plural, one {# minute} other {# minutes}}"
+msgstr "{0, plural, one {# دقيقة} other {# دقائق}}"
 
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:180
 msgid "{0, plural, one {# month} other {# months}}"
-msgstr "{0, plural, one {# month} other {# months}}"
+msgstr "{0, plural, one {# شهر} other {# أشهر}}"
 
 #. placeholder {0}: reactions.length
 #. placeholder {1}: groupedReactions.map(g => g.value).join(' ')
 #: src/components/dms/MessageItem.tsx:284
 msgid "{0, plural, one {# person} other {# people}} reacted – {1}"
-msgstr "{0, plural, one {# person} other {# people}} reacted – {1}"
+msgstr "{0, plural, one {شخص واحد} other {# أشخاص}} تفاعل – {1}"
 
 #. placeholder {0}: quoteCount ?? 0
 #: src/screens/Post/PostQuotes.tsx:34
 msgid "{0, plural, one {# quote} other {# quotes}}"
-msgstr "{0, plural, one {# quote} other {# quotes}}"
+msgstr "{0, plural, one {# اقتباس} other {# اقتباسات}}"
 
 #. placeholder {0}: quoteCount ?? 0
 #: src/screens/Post/PostRepostedBy.tsx:34
 msgid "{0, plural, one {# repost} other {# reposts}}"
-msgstr "{0, plural, one {# repost} other {# reposts}}"
+msgstr "{0, plural, one {# إعادة نشر} other {# إعادات نشر}}"
 
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:139
 msgid "{0, plural, one {# second} other {# seconds}}"
-msgstr "{0, plural, one {# second} other {# seconds}}"
+msgstr "{0, plural, one {# ثانية} other {# ثوانٍ}}"
 
 #. placeholder {0}: numUnreadMessages.numUnread ?? 0
 #. placeholder {0}: numUnreadNotifications ?? 0
@@ -108,18 +108,18 @@ msgstr "{0, plural, one {# second} other {# seconds}}"
 #: src/view/shell/bottom-bar/BottomBar.tsx:260
 #: src/view/shell/Drawer.tsx:486
 msgid "{0, plural, one {# unread item} other {# unread items}}"
-msgstr "{0, plural, one {# unread item} other {# unread items}}"
+msgstr "{0, plural, one {# عنصر غير مقروء} other {# عناصر غير مقروءة}}"
 
 #. How many months have passed, displayed in a narrow form
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:182
 msgid "{0, plural, one {#mo} other {#mo}}"
-msgstr "{0, plural, one {#mo} other {#mo}}"
+msgstr "{0, plural, one {# شهر} other {# أشهر}}"
 
 #. placeholder {0}: draft.meta.replyCount
 #: src/view/com/composer/drafts/DraftItem.tsx:143
 msgid "{0, plural, one {1 more post} other {# more posts}}"
-msgstr "{0, plural, one {1 more post} other {# more posts}}"
+msgstr "{0, plural, one {منشور إضافي واحد} other {# منشورات إضافية}}"
 
 #. placeholder {0}: profile.followersCount || 0
 #: src/components/ProfileHoverCard/index.web.tsx:444
@@ -142,17 +142,17 @@ msgstr "{0, plural, one {منشور} other {منشورات}}"
 #. placeholder {0}: starterPack.joinedAllTimeCount || 0
 #: src/screens/StarterPack/StarterPackScreen.tsx:506
 msgid "{0, plural, other {# people have}} joined Bluesky via this starter pack!"
-msgstr "{0, plural, other {# people have}} joined Bluesky via this starter pack!"
+msgstr "{0, plural, other {# أشخاص انضموا}} إلى Bluesky عبر حزمة البداية هذه!"
 
 #. placeholder {0}: starterPack.list.listItemCount - 4
 #: src/components/dialogs/StarterPackDialog.tsx:362
 msgid "{0, plural, other {+# more}}"
-msgstr "{0, plural, other {+# more}}"
+msgstr "{0, plural, other {+# المزيد}}"
 
 #. placeholder {0}: aaRegionConfig.minAccessAge
 #: src/screens/Signup/StepInfo/index.tsx:317
 msgid "{0, plural, other {You must be # years of age or older to create an account in your region.}}"
-msgstr "{0, plural, other {You must be # years of age or older to create an account in your region.}}"
+msgstr "{0, plural, other {يجب أن يكون عمرك # عامًا أو أكثر لإنشاء حساب في منطقتك.}}"
 
 #. placeholder {0}: i18n.date(d, {timeStyle: 'short'})
 #. placeholder {1}: i18n.date(d, {dateStyle: 'medium'})
@@ -176,13 +176,13 @@ msgstr "{0} {1}"
 #. placeholder {0}: word.value
 #: src/components/dialogs/MutedWords.tsx:495
 msgid "{0} <0>in <1>tags</1></0>"
-msgstr "{0} <0>in <1>tags</1></0>"
+msgstr "{0} <0>في <1>الوسوم</1></0>"
 
 #. Pattern: {wordValue} in text, tags
 #. placeholder {0}: word.value
 #: src/components/dialogs/MutedWords.tsx:484
 msgid "{0} <0>in <1>text & tags</1></0>"
-msgstr "{0} <0>in <1>text & tags</1></0>"
+msgstr "{0} <0>في <1>النصوص والوسوم</1></0>"
 
 #. placeholder {0}: profile.followsCount || 0
 #: src/screens/Profile/Header/Metrics.tsx:49
@@ -262,192 +262,192 @@ msgstr "{0}د"
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:161
 msgid "{0}h"
-msgstr "{0}ح"
+msgstr "{0}س"
 
 #. How many minutes have passed, displayed in a narrow form
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:151
 msgid "{0}m"
-msgstr "{0}م"
+msgstr "{0}د"
 
 #. How many seconds have passed, displayed in a narrow form
 #. placeholder {0}: diff.value
 #: src/lib/hooks/useTimeAgo.ts:141
 msgid "{0}s"
-msgstr "{0}س"
+msgstr "{0}ث"
 
 #: src/view/shell/desktop/LeftNav.tsx:456
 msgid "{count, plural, one {# unread item} other {# unread items}}"
-msgstr "{count, plural, one {# unread item} other {# unread items}}"
+msgstr "{count, plural, one {# عنصر غير مقروء} other {# عناصر غير مقروءة}}"
 
 #: src/components/dms/DateDivider.tsx:67
 msgid "{date} at {time}"
-msgstr "{date} at {time}"
+msgstr "{date} في {time}"
 
 #: src/lib/generate-starterpack.ts:104
 #: src/screens/StarterPack/Wizard/index.tsx:189
 msgid "{displayName}'s Starter Pack"
-msgstr "{displayName}'s Starter Pack"
+msgstr "حزمة البداية الخاصة بـ {displayName}"
 
 #: src/screens/SignupQueued.tsx:219
 msgid "{estimatedTimeHrs, plural, one {hour} other {hours}}"
-msgstr "{estimatedTimeHrs, plural, one {hour} other {hours}}"
+msgstr "{estimatedTimeHrs, plural, one {ساعة} other {ساعات}}"
 
 #: src/screens/SignupQueued.tsx:225
 msgid "{estimatedTimeMins, plural, one {minute} other {minutes}}"
-msgstr "{estimatedTimeMins, plural, one {minute} other {minutes}}"
+msgstr "{estimatedTimeMins, plural, one {دقيقة} other {دقائق}}"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:346
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> followed you"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> followed you"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> قاموا بمتابعتك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:380
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your custom feed"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your custom feed"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أعجبوا بخلاصتك المخصصة"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:289
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your post"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your post"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أعجبوا بمنشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:485
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your repost"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> liked your repost"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أعجبوا بإعادة نشرك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:458
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> removed their verifications from your account"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> removed their verifications from your account"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أزالوا توثيقاتهم من حسابك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:313
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> reposted your post"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> reposted your post"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أعادوا نشر منشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:509
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> reposted your repost"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> reposted your repost"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> أعادوا نشر إعادة النشر الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:404
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> signed up with your starter pack"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> signed up with your starter pack"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> سجلوا باستخدام حزمة البداية الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:433
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> verified you"
-msgstr "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> verified you"
+msgstr "{firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0> قاموا بتوثيقك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:358
 msgid "{firstAuthorLink} followed you"
-msgstr "{firstAuthorLink} followed you"
+msgstr "{firstAuthorLink} قام بمتابعتك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:335
 msgid "{firstAuthorLink} followed you back"
-msgstr "{firstAuthorLink} followed you back"
+msgstr "{firstAuthorLink} تابعك أيضًا"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:392
 msgid "{firstAuthorLink} liked your custom feed"
-msgstr "{firstAuthorLink} liked your custom feed"
+msgstr "{firstAuthorLink} أعجب بخلاصتك المخصصة"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:301
 msgid "{firstAuthorLink} liked your post"
-msgstr "{firstAuthorLink} liked your post"
+msgstr "{firstAuthorLink} أعجب بمنشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:497
 msgid "{firstAuthorLink} liked your repost"
-msgstr "{firstAuthorLink} liked your repost"
+msgstr "{firstAuthorLink} أعجب بإعادة نشرك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:470
 msgid "{firstAuthorLink} removed their verification from your account"
-msgstr "{firstAuthorLink} removed their verification from your account"
+msgstr "{firstAuthorLink} أزال توثيقه من حسابك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:325
 msgid "{firstAuthorLink} reposted your post"
-msgstr "{firstAuthorLink} reposted your post"
+msgstr "{firstAuthorLink} أعاد نشر منشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:521
 msgid "{firstAuthorLink} reposted your repost"
-msgstr "{firstAuthorLink} reposted your repost"
+msgstr "{firstAuthorLink} أعاد نشر إعادة النشر الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:416
 msgid "{firstAuthorLink} signed up with your starter pack"
-msgstr "{firstAuthorLink} signed up with your starter pack"
+msgstr "{firstAuthorLink} سجل باستخدام حزمة البداية الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:445
 msgid "{firstAuthorLink} verified you"
-msgstr "{firstAuthorLink} verified you"
+msgstr "{firstAuthorLink} قام بتوثيقك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:339
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} followed you"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} followed you"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} قاموا بمتابعتك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:373
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your custom feed"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your custom feed"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أعجبوا بخلاصتك المخصصة"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:282
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your post"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your post"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أعجبوا بمنشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:478
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your repost"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} liked your repost"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أعجبوا بإعادة نشرك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:451
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} removed their verifications from your account"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} removed their verifications from your account"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أزالوا توثيقاتهم من حسابك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:306
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} reposted your post"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} reposted your post"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أعادوا نشر منشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:502
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} reposted your repost"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} reposted your repost"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} أعادوا نشر إعادة النشر الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:397
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} signed up with your starter pack"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} signed up with your starter pack"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} سجلوا باستخدام حزمة البداية الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:426
 msgid "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} verified you"
-msgstr "{firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}} verified you"
+msgstr "{firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}} قاموا بتوثيقك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:344
 msgid "{firstAuthorName} followed you"
-msgstr "{firstAuthorName} followed you"
+msgstr "{firstAuthorName} قام بمتابعتك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:334
 msgid "{firstAuthorName} followed you back"
-msgstr "{firstAuthorName} followed you back"
+msgstr "{firstAuthorName} تابعك أيضًا"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:378
 msgid "{firstAuthorName} liked your custom feed"
-msgstr "{firstAuthorName} liked your custom feed"
+msgstr "{firstAuthorName} أعجب بخلاصتك المخصصة"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:287
 msgid "{firstAuthorName} liked your post"
-msgstr "{firstAuthorName} liked your post"
+msgstr "{firstAuthorName} أعجب بمنشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:483
 msgid "{firstAuthorName} liked your repost"
-msgstr "{firstAuthorName} liked your repost"
+msgstr "{firstAuthorName} أعجب بإعادة نشرك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:456
 msgid "{firstAuthorName} removed their verification from your account"
-msgstr "{firstAuthorName} removed their verification from your account"
+msgstr "{firstAuthorName} أزال توثيقه من حسابك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:311
 msgid "{firstAuthorName} reposted your post"
-msgstr "{firstAuthorName} reposted your post"
+msgstr "{firstAuthorName} أعاد نشر منشورك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:507
 msgid "{firstAuthorName} reposted your repost"
-msgstr "{firstAuthorName} reposted your repost"
+msgstr "{firstAuthorName} أعاد نشر إعادة النشر الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:402
 msgid "{firstAuthorName} signed up with your starter pack"
-msgstr "{firstAuthorName} signed up with your starter pack"
+msgstr "{firstAuthorName} سجل باستخدام حزمة البداية الخاصة بك"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:431
 msgid "{firstAuthorName} verified you"
-msgstr "{firstAuthorName} verified you"
+msgstr "{firstAuthorName} قام بتوثيقك"
 
 #: src/components/ProfileHoverCard/index.web.tsx:572
 msgid "{following} following"
@@ -455,26 +455,26 @@ msgstr "{following} يتابع"
 
 #: src/components/dialogs/SearchablePeopleList.tsx:458
 msgid "{handle} can't be messaged"
-msgstr "{handle} can't be messaged"
+msgstr "لا يمكن مراسلة {handle}"
 
 #: src/components/dms/components/GroupChatProfileCard.tsx:56
 #: src/components/dms/InitiateChatFlow.tsx:809
 #: src/components/dms/InitiateChatFlow.tsx:848
 msgid "{handle} can’t be messaged"
-msgstr "{handle} can’t be messaged"
+msgstr "لا يمكن مراسلة {handle}"
 
 #: src/features/liveNow/utils.ts:15
 msgid "{hours, plural, one {# hour {minutesString}} other {# hours {minutesString}}}"
-msgstr "{hours, plural, one {# hour {minutesString}} other {# hours {minutesString}}}"
+msgstr "{hours, plural, one {# ساعة {minutesString}} other {# ساعات {minutesString}}}"
 
 #: src/features/liveNow/utils.ts:19
 msgid "{hours, plural, one {# hour} other {# hours}}"
-msgstr "{hours, plural, one {# hour} other {# hours}}"
+msgstr "{hours, plural, one {# ساعة} other {# ساعات}}"
 
 #. Number of users (always at least 50) who have joined Bluesky using a specific starter pack
 #: src/components/StarterPack/StarterPackCard.tsx:102
 msgid "{joinedAllTimeCount, plural, other {# users have}} joined!"
-msgstr "{joinedAllTimeCount, plural, other {# users have}} joined!"
+msgstr "{joinedAllTimeCount, plural, other {انضم # مستخدم!}}"
 
 #: src/view/com/composer/videos/SubtitleDialog.tsx:138
 msgid "{MAX_ALT_TEXT, plural, other {Alt text must be less than # characters.}}"
@@ -573,7 +573,7 @@ msgstr "{requestCount}+ طلبات"
 #. trending topic time spent trending. should be as short as possible to fit in a pill
 #: src/screens/Search/modules/ExploreTrendingTopics.tsx:191
 msgid "{type}h ago"
-msgstr "{type}h ago"
+msgstr "منذ {type} ساعة"
 
 #: src/components/verification/VerifierDialog.tsx:62
 msgid "{userName} is a trusted verifier"
@@ -864,7 +864,7 @@ msgstr "تم إلغاء تجاهل الحساب"
 
 #: src/components/verification/VerifierDialog.tsx:99
 msgid "Accounts with a scalloped blue check mark <0><1/></0> can verify others. These trusted verifiers are selected by Bluesky."
-msgstr "Accounts with a scalloped blue check mark <0><1/></0> can verify others. These trusted verifiers are selected by Bluesky."
+msgstr "الحسابات التي تحمل علامة تحقق زرقاء مسننة <0><1/></0> يمكنها التحقق من الآخرين. يتم اختيار هذه الجهات الموثوقة من قبل Bluesky."
 
 #: src/lib/hooks/useNotificationHandler.ts:192
 #: src/screens/Settings/NotificationSettings/ActivityNotificationSettings.tsx:105
@@ -1143,7 +1143,7 @@ msgstr "يستغرق ضمان العمر بضع دقائق فقط"
 
 #: src/components/dialogs/EmailDialog/screens/Update.tsx:224
 msgid "alice@example.com"
-msgstr "أليس@example.com"
+msgstr "alice@example.com"
 
 #. the default tab in the interests tab bar
 #: src/components/dms/ReactionsDialog.tsx:289
@@ -1587,7 +1587,7 @@ msgstr "هل أنت متأكد أنك تريد تجاهل التغييرات؟"
 
 #: src/screens/Messages/ConversationSettings/prompts.tsx:90
 msgid "Are you sure you want to leave {groupName}?"
-msgstr "Are you sure you want to leave {groupName}?"
+msgstr "هل أنت متأكد أنك تريد مغادرة {groupName}؟"
 
 #: src/components/dms/LeaveConvoPrompt.tsx:50
 msgid "Are you sure you want to leave this conversation?"
@@ -1611,7 +1611,7 @@ msgstr "هل أنت متأكد؟"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:359
 msgid "Are you writing in <0>{suggestedLanguageName}</0>?"
-msgstr "Are you writing in <0>{suggestedLanguageName}</0>?"
+msgstr "هل تكتب باللغة <0>{suggestedLanguageName}</0>؟"
 
 #: src/lib/interests.ts:53
 msgid "Art"
@@ -1726,7 +1726,7 @@ msgstr "قبل أن تتمكن من قبول طلب الدردشة هذا، يج
 
 #: src/components/activity-notifications/SubscribeProfileButton.tsx:59
 msgid "Before you can get notifications for {name}'s posts, you must first verify your email."
-msgstr "Before you can get notifications for {name}'s posts, you must first verify your email."
+msgstr "قبل أن تتمكن من تلقي إشعارات منشورات {name}، يجب أولاً التحقق من بريدك الإلكتروني."
 
 #: src/components/dms/dialogs/NewChatDialog.tsx:94
 #: src/components/dms/MessageProfileButton.tsx:60
@@ -1766,11 +1766,12 @@ msgstr "عيد ميلاد"
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:207
 #: src/view/com/profile/ProfileMenu.tsx:563
 msgid "Block"
-msgstr "حاجز"
+msgstr "حظر"
 
 #: src/screens/Messages/ConversationSettings/MemberMenu.tsx:209
 msgid "Block {displayName}"
-msgstr "Block {displayName}"
+msgstr "حظر {displayName}"
+
 
 #: src/components/dms/ConvoMenu.tsx:275
 #: src/components/dms/ConvoMenu.tsx:278
@@ -1868,7 +1869,7 @@ msgstr "مدونة"
 #: src/components/dialogs/ServerInput.tsx:144
 #: src/components/dialogs/ServerInput.tsx:146
 msgid "Bluesky"
-msgstr "بلوسكاي"
+msgstr "Bluesky"
 
 #: src/screens/PostThread/components/ThreadItemAnchor.tsx:655
 msgid "Bluesky cannot confirm the authenticity of the claimed date."
@@ -1929,11 +1930,11 @@ msgstr "سوف يقوم Bluesky بالتحقق بشكل استباقي من ال
 
 #: src/screens/Settings/AppIconSettings/index.tsx:97
 msgid "Bluesky+"
-msgstr "بلوسكاي +"
+msgstr "Bluesky +"
 
 #: src/screens/Settings/AppIconSettings/index.tsx:100
 msgid "Bluesky+ icons"
-msgstr "أيقونات بلوسكاي+"
+msgstr "أيقونات Bluesky+"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:56
 msgid "Blur images"
@@ -1980,15 +1981,15 @@ msgstr "تصفح التحديثات الأخرى"
 
 #: src/components/TrendingTopics.tsx:179
 msgid "Browse posts about {displayName}"
-msgstr "Browse posts about {displayName}"
+msgstr "تصفح منشورات حول {displayName}"
 
 #: src/components/TrendingTopics.tsx:187
 msgid "Browse posts tagged with {displayName}"
-msgstr "Browse posts tagged with {displayName}"
+msgstr "تصفح المنشورات الموسومة بـ {displayName}"
 
 #: src/components/TrendingTopics.tsx:196
 msgid "Browse starter pack {displayName}"
-msgstr "Browse starter pack {displayName}"
+msgstr "تصفح حزمة البداية {displayName}"
 
 #. placeholder {0}: trend.displayName
 #: src/screens/Search/modules/ExploreTrendingTopics.tsx:83
@@ -2028,19 +2029,19 @@ msgstr "بالنقر على \"متابعة\"، فإنك تقر بأنك تفهم
 
 #: src/components/contacts/screens/PhoneInput.tsx:297
 msgid "By continuing, you consent to this use. You may change your mind any time by visiting settings. <0>Learn more</0>"
-msgstr "By continuing, you consent to this use. You may change your mind any time by visiting settings. <0>Learn more</0>"
+msgstr "من خلال الاستمرار، فإنك توافق على هذا الاستخدام. يمكنك تغيير رأيك في أي وقت من خلال زيارة الإعدادات. <0>معرفة المزيد</0>"
 
 #: src/screens/Signup/StepInfo/Policies.tsx:76
 msgid "By creating an account you agree to the <0>Privacy Policy</0>."
-msgstr "By creating an account you agree to the <0>Privacy Policy</0>."
+msgstr "بإنشاء حساب فإنك توافق على <0>سياسة الخصوصية</0>."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:43
 msgid "By creating an account you agree to the <0>Terms of Service</0> and <1>Privacy Policy</1>."
-msgstr "By creating an account you agree to the <0>Terms of Service</0> and <1>Privacy Policy</1>."
+msgstr "بإنشاء حساب فإنك توافق على <0>شروط الخدمة</0> و<1>سياسة الخصوصية</1>."
 
 #: src/screens/Signup/StepInfo/Policies.tsx:63
 msgid "By creating an account you agree to the <0>Terms of Service</0>."
-msgstr "By creating an account you agree to the <0>Terms of Service</0>."
+msgstr "بإنشاء حساب فإنك توافق على <0>شروط الخدمة</0>."
 
 #: src/screens/Search/components/StarterPackCard.tsx:106
 msgid "By you"
@@ -3207,7 +3208,7 @@ msgstr "الرموز الافتراضية"
 #: src/screens/StarterPack/StarterPackScreen.tsx:717
 #: src/screens/StarterPack/StarterPackScreen.tsx:796
 msgid "Delete"
-msgstr "يمسح"
+msgstr "حذف"
 
 #: src/screens/Settings/AccountSettings.tsx:189
 #: src/screens/Settings/AccountSettings.tsx:194
@@ -3217,7 +3218,7 @@ msgstr "حذف الحساب"
 #: src/screens/Settings/components/DeleteAccountDialog.tsx:183
 #: src/screens/Settings/components/DeleteAccountDialog.tsx:230
 msgid "Delete account “{currentHandle}”"
-msgstr "Delete account “{currentHandle}”"
+msgstr "حذف الحساب “{currentHandle}”"
 
 #: src/screens/Settings/AppPasswords.tsx:187
 msgid "Delete app password"
@@ -3366,7 +3367,7 @@ msgstr "خافت"
 #: src/screens/Messages/components/InviteLinkDialog.tsx:323
 #: src/screens/Messages/components/InviteLinkDialog.tsx:331
 msgid "Disable"
-msgstr "إبطال"
+msgstr "تعطيل"
 
 #: src/components/dialogs/EmailDialog/screens/Manage2FA/Disable.tsx:234
 #: src/components/dialogs/EmailDialog/screens/Manage2FA/Disable.tsx:243
@@ -3563,13 +3564,13 @@ msgstr "لا تقلق! يتم حفظ جميع الرسائل والإعدادا�
 #: src/view/com/composer/videos/SubtitleDialog.tsx:192
 #: src/view/com/composer/videos/SubtitleDialog.tsx:203
 msgid "Done"
-msgstr "منتهي"
+msgstr "انتهيت"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:114
 #: src/view/com/modals/UserAddRemoveLists.tsx:117
 msgctxt "action"
 msgid "Done"
-msgstr "منتهي"
+msgstr "انتهيت"
 
 #: src/components/dms/MessageItem.tsx:452
 msgid "Double tap or long press the message to add a reaction"
@@ -3585,7 +3586,7 @@ msgstr "انقر نقرًا مزدوجًا للإعجاب"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:331
 msgid "Download Bluesky"
-msgstr "تحميل بلوسكاي"
+msgstr "تحميل Bluesky"
 
 #: src/screens/Settings/components/ExportCarDialog.tsx:115
 #: src/screens/Settings/components/ExportCarDialog.tsx:120
@@ -3627,7 +3628,7 @@ msgstr "مدة:"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:237
 msgid "e.g. alice"
-msgstr "على سبيل المثال أليس"
+msgstr "على سبيل المثال alice"
 
 #: src/screens/Profile/Header/EditProfileDialog.tsx:317
 msgid "e.g. Alice Lastname"
@@ -3815,7 +3816,7 @@ msgstr "تم إرسال البريد الإلكتروني!"
 
 #: src/screens/Settings/components/DeleteAccountDialog.tsx:260
 msgid "Email sent! <0>Click here to resend.</0>"
-msgstr "Email sent! <0>Click here to resend.</0>"
+msgstr "تم إرسال البريد الإلكتروني! <0>اضغط هنا لإعادة الإرسال.</0>"
 
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:183
 msgid "Email verification complete!"
@@ -4015,7 +4016,7 @@ msgstr "خطأ في تلقي استجابة كلمة التحقق."
 
 #: src/screens/Search/SearchResults.tsx:154
 msgid "Error: {error}"
-msgstr "Error: {error}"
+msgstr "خطأ: {error}"
 
 #: src/components/WhoCanReply.tsx:85
 msgid "Everybody can reply"
@@ -4704,7 +4705,7 @@ msgstr "متابعة الحساب"
 #: src/screens/StarterPack/StarterPackScreen.tsx:452
 #: src/screens/StarterPack/StarterPackScreen.tsx:460
 msgid "Follow all"
-msgstr "اتبع الكل"
+msgstr "متابعه الكل"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:291
 msgid "Follow all accounts"
@@ -4717,7 +4718,7 @@ msgstr "متابعة كافة الحسابات"
 #: src/view/com/notifications/NotificationFeedItem.tsx:836
 #: src/view/com/notifications/NotificationFeedItem.tsx:843
 msgid "Follow back"
-msgstr "تابع ما سبق"
+msgstr "متابعه ما سبق"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:132
 msgid "Followed all accounts!"
@@ -4730,26 +4731,26 @@ msgstr "تابعت جميع المباريات"
 #. placeholder {0}: slice[0].profile.displayName
 #: src/components/KnownFollowers.tsx:236
 msgid "Followed by <0>{0}</0>"
-msgstr "Followed by <0>{0}</0>"
+msgstr "يتابعـه <0>{0}</0>"
 
 #. placeholder {0}: slice[0].profile.displayName
 #. placeholder {1}: serverCount - 1
 #: src/components/KnownFollowers.tsx:222
 msgid "Followed by <0>{0}</0> and {1, plural, one {# other} other {# others}}"
-msgstr "Followed by <0>{0}</0> and {1, plural, one {# other} other {# others}}"
+msgstr "يتابعـه <0>{0}</0> و{1, plural, one {# آخر} other {# آخرين}}"
 
 #. placeholder {0}: slice[0].profile.displayName
 #. placeholder {1}: slice[1].profile.displayName
 #: src/components/KnownFollowers.tsx:209
 msgid "Followed by <0>{0}</0> and <1>{1}</1>"
-msgstr "Followed by <0>{0}</0> and <1>{1}</1>"
+msgstr "يتابعـه <0>{0}</0> و<1>{1}</1>"
 
 #. placeholder {0}: slice[0].profile.displayName
 #. placeholder {1}: slice[1].profile.displayName
 #. placeholder {2}: serverCount - 2
 #: src/components/KnownFollowers.tsx:192
 msgid "Followed by <0>{0}</0>, <1>{1}</1>, and {2, plural, one {# other} other {# others}}"
-msgstr "Followed by <0>{0}</0>, <1>{1}</1>, and {2, plural, one {# other} other {# others}}"
+msgstr "يتابعـه <0>{0}</0>، <1>{1}</1>، و{2, plural, one {# آخر} other {# آخرين}}"
 
 #. placeholder {0}: route.params.name
 #: src/Navigation.tsx:250
@@ -4791,7 +4792,7 @@ msgstr "يتابع {0}"
 
 #: src/screens/VideoFeed/index.tsx:844
 msgid "Following {handle}"
-msgstr "Following {handle}"
+msgstr "يتابع {handle}"
 
 #: src/screens/Settings/ContentAndMediaSettings.tsx:78
 #: src/screens/Settings/ContentAndMediaSettings.tsx:81
@@ -4878,7 +4879,7 @@ msgstr "من"
 
 #: src/screens/Hashtag.tsx:124
 msgid "From @{sanitizedAuthor}"
-msgstr "From @{sanitizedAuthor}"
+msgstr "من @{sanitizedAuthor}"
 
 #: src/view/com/posts/PostFeedReason.tsx:48
 msgctxt "from-feed"
@@ -4915,7 +4916,7 @@ msgstr "تم قطع اتصال Germ DM"
 #: src/screens/Profile/components/GermButton.tsx:233
 #: src/screens/Profile/components/GermButton.tsx:238
 msgid "Germ DM Link"
-msgstr "رابط جرثومة DM"
+msgstr "Germ DM Link"
 
 #: src/screens/Profile/components/GermButton.tsx:159
 msgid "Germ DM reconnected"
@@ -4967,7 +4968,7 @@ msgstr "احصل على إشعارات بشأن المنشورات والردو�
 
 #: src/components/activity-notifications/SubscribeProfileDialog.tsx:226
 msgid "Get notified of new posts from {name}"
-msgstr "Get notified of new posts from {name}"
+msgstr "تلقي إشعارات بالمنشورات الجديدة من {name}"
 
 #: src/components/activity-notifications/SubscribeProfileDialog.tsx:233
 msgid "Get notified of this account’s activity"
@@ -4975,7 +4976,7 @@ msgstr "الحصول على إشعار بنشاط هذا الحساب"
 
 #: src/components/activity-notifications/SubscribeProfileButton.tsx:87
 msgid "Get notified when {name} posts"
-msgstr "Get notified when {name} posts"
+msgstr "تلقي إشعارات عندما ينشر {name}"
 
 #: src/components/dialogs/nuxs/ActivitySubscriptions.tsx:138
 msgid "Get notified when someone posts"
@@ -5078,7 +5079,7 @@ msgstr "اذهب للعيش من أجل"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:241
 msgid "Go to {firstAuthorName}'s profile"
-msgstr "Go to {firstAuthorName}'s profile"
+msgstr "الانتقال إلى ملف {firstAuthorName}"
 
 #: src/components/ageAssurance/AgeAssuranceAdmonition.tsx:93
 #: src/components/ageAssurance/AgeRestrictedScreen.tsx:73
@@ -5240,7 +5241,7 @@ msgstr "الوسم"
 
 #: src/components/RichTextTag.tsx:53
 msgid "Hashtag {tag}"
-msgstr "Hashtag {tag}"
+msgstr "الوسم {tag}"
 
 #: src/components/moderation/ReportDialog/utils/useReportOptions.ts:111
 msgid "Hate speech"
@@ -5450,7 +5451,7 @@ msgstr "امسك خيولك! هذه الميزة غير متاحة لك بعد. 
 #: src/view/shell/desktop/LeftNav.tsx:673
 #: src/view/shell/Drawer.tsx:428
 msgid "Home"
-msgstr "بيت"
+msgstr "المنزل"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:430
 msgid "Host:"
@@ -5869,7 +5870,7 @@ msgstr "وظائف"
 #: src/screens/StarterPack/StarterPackScreen.tsx:478
 #: src/screens/StarterPack/StarterPackScreen.tsx:489
 msgid "Join Bluesky"
-msgstr "انضم إلى بلوسكاي"
+msgstr "انضم إلى Bluesky"
 
 #: src/components/StarterPack/QrCode.tsx:72
 #: src/view/shell/NavSignupCard.tsx:41
@@ -5892,7 +5893,7 @@ msgstr "ابقِني على اطلاع"
 
 #: src/components/ageAssurance/AgeAssuranceInitDialog.tsx:200
 msgid "KWS website"
-msgstr "موقع كي دبليو إس"
+msgstr "موقع KWS"
 
 #. placeholder {0}: sanitizeDisplayName(desc.source!)
 #: src/components/moderation/ContentHider.tsx:251
@@ -5952,7 +5953,7 @@ msgstr "آخر ما بدأ للتو"
 #: src/screens/Search/SearchResults.tsx:64
 #: src/screens/Topic.tsx:65
 msgid "Latest"
-msgstr "أحدث"
+msgstr "الأحدث"
 
 #: src/components/verification/VerificationsDialog.tsx:168
 #: src/components/verification/VerifierDialog.tsx:135
@@ -6094,13 +6095,13 @@ msgstr "ضوء"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:523
 msgid "Like"
-msgstr "يحب"
+msgstr "إعجاب"
 
 #. Accessibility label for the like button when the post has not been liked, verb form followed by number of likes and noun form
 #. placeholder {0}: post.likeCount || 0
 #: src/components/PostControls/index.tsx:287
 msgid "Like ({0, plural, one {# like} other {# likes}})"
-msgstr "Like ({0, plural, one {# like} other {# likes}})"
+msgstr "إعجاب ({0, plural, one {# إعجاب} other {# إعجابات}})"
 
 #: src/components/ProgressGuide/List.tsx:110
 msgid "Like 10 posts"
@@ -6113,11 +6114,11 @@ msgstr "قم بالإعجاب بـ 10 مشاركات لتدريب خلاصة Dis
 
 #: src/Navigation.tsx:473
 msgid "Like notifications"
-msgstr "مثل الإخطارات"
+msgstr "مثل الاشعارات"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:511
 msgid "Like this feed"
-msgstr "مثل هذه التغذية"
+msgstr "مثل هذه الخلاصه"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:148
 msgid "Like this labeler"
@@ -6126,7 +6127,7 @@ msgstr "مثل هذا الملصق"
 #: src/Navigation.tsx:301
 #: src/Navigation.tsx:306
 msgid "Liked by"
-msgstr "أعجبني"
+msgstr "أُعجب به من قبل"
 
 #: src/screens/Post/PostLikedBy.tsx:31
 #: src/screens/Profile/ProfileLabelerLikedBy.tsx:22
@@ -6139,14 +6140,14 @@ msgstr "تم الإعجاب من قِبل"
 #: src/components/FeedCard.tsx:249
 #: src/view/com/feeds/FeedSourceCard.tsx:173
 msgid "Liked by {0, plural, one {# user} other {# users}}"
-msgstr "Liked by {0, plural, one {# user} other {# users}}"
+msgstr "أُعجب به من قبل {0, plural, one {# مستخدم} other {# مستخدمين}}"
 
 #: src/components/LabelingServiceCard/index.tsx:96
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:499
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:168
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:182
 msgid "Liked by {likeCount, plural, one {# user} other {# users}}"
-msgstr "Liked by {likeCount, plural, one {# user} other {# users}}"
+msgstr "أُعجب به من قبل {likeCount, plural, one {# مستخدم} other {# مستخدمين}}"
 
 #: src/lib/hooks/useNotificationHandler.ts:136
 #: src/screens/Settings/NotificationSettings/index.tsx:127
@@ -6221,7 +6222,7 @@ msgstr "وصف القائمة"
 
 #: src/components/dialogs/lists/CreateOrEditListDialog.tsx:466
 msgid "List description is too long. {DESCRIPTION_MAX_GRAPHEMES, plural, other {The maximum number of characters is #.}}"
-msgstr "List description is too long. {DESCRIPTION_MAX_GRAPHEMES, plural, other {The maximum number of characters is #.}}"
+msgstr "وصف القائمة طويل جدًا. {DESCRIPTION_MAX_GRAPHEMES, plural, other {الحد الأقصى لعدد الأحرف هو #.}}"
 
 #: src/screens/List/ListHiddenScreen.tsx:133
 msgid "List has been hidden"
@@ -6246,7 +6247,7 @@ msgstr "اسم القائمة"
 
 #: src/components/dialogs/lists/CreateOrEditListDialog.tsx:430
 msgid "List name is too long. {DISPLAY_NAME_MAX_GRAPHEMES, plural, other {The maximum number of characters is #.}}"
-msgstr "List name is too long. {DISPLAY_NAME_MAX_GRAPHEMES, plural, other {The maximum number of characters is #.}}"
+msgstr "اسم القائمة طويل جدًا. {DISPLAY_NAME_MAX_GRAPHEMES, plural, other {الحد الأقصى لعدد الأحرف هو #.}}"
 
 #: src/screens/ProfileList/components/Header.tsx:115
 #: src/screens/ProfileList/components/MoreOptionsMenu.tsx:130
@@ -6392,7 +6393,7 @@ msgstr "الشعار بواسطة @sawaratsuki.bsky.social"
 #: src/view/shell/desktop/RightNav.tsx:138
 #: src/view/shell/Drawer.tsx:697
 msgid "Logo by <0>@sawaratsuki.bsky.social</0>"
-msgstr "Logo by <0>@sawaratsuki.bsky.social</0>"
+msgstr "الشعار بواسطة <0>@sawaratsuki.bsky.social</0>"
 
 #. placeholder {0}: isCashtag ? tag : `#${tag}`
 #: src/components/RichTextTag.tsx:55
@@ -6413,7 +6414,7 @@ msgstr "يبدو أنك قمت بإلغاء تثبيت جميع خلاصاتك. 
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:36
 msgid "Looks like you're missing a following feed. <0>Click here to add one.</0>"
-msgstr "Looks like you're missing a following feed. <0>Click here to add one.</0>"
+msgstr "يبدو أنك لا تتابع أي خلاصة. <0>اضغط هنا لإضافة واحدة.</0>"
 
 #: src/components/dialogs/EmailDialog/index.tsx:41
 msgid "Make adjustments to email settings for your account"
@@ -6524,7 +6525,7 @@ msgstr "الرسالة {0}"
 
 #: src/screens/Messages/ConversationSettings/MemberMenu.tsx:194
 msgid "Message {displayName}"
-msgstr "Message {displayName}"
+msgstr "رسالة {displayName}"
 
 #: src/screens/Messages/components/ChatListItem.tsx:265
 msgid "Message deleted"
@@ -6873,11 +6874,11 @@ msgstr "جديد"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:554
 msgid "New {postsCount, plural, one {post} other {posts}} from {firstAuthorLink}"
-msgstr "New {postsCount, plural, one {post} other {posts}} from {firstAuthorLink}"
+msgstr "{postsCount, plural, one {منشور جديد} other {منشورات جديدة}} من {firstAuthorLink}"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:537
 msgid "New {postsCount, plural, one {post} other {posts}} from {firstAuthorName}"
-msgstr "New {postsCount, plural, one {post} other {posts}} from {firstAuthorName}"
+msgstr "{postsCount, plural, one {منشور جديد} other {منشورات جديدة}} من {firstAuthorName}"
 
 #: src/components/dms/dialogs/NewChatDialog.tsx:107
 #: src/components/dms/dialogs/NewChatDialog.tsx:117
@@ -6901,7 +6902,7 @@ msgstr "محادثة جديدة مع {0} و{1}"
 #. placeholder {1}: members[1].displayName
 #: src/screens/Messages/components/MessagesListInfoPanel.tsx:67
 msgid "New chat with {0}, {1}, and {memberCount, plural, one {{memberCount} more} other {{memberCount} more}}."
-msgstr "New chat with {0}, {1}, and {memberCount, plural, one {{memberCount} more} other {{memberCount} more}}."
+msgstr "محادثة جديدة مع {0} و{1} و{memberCount, plural, one {{memberCount} آخر} other {{memberCount} آخرين}}."
 
 #: src/components/dialogs/EmailDialog/screens/Update.tsx:223
 msgid "New email address"
@@ -6972,11 +6973,11 @@ msgstr "وظيفة جديدة"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:543
 msgid "New posts from {firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> "
-msgstr "New posts from {firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> "
+msgstr "منشورات جديدة من {firstAuthorLink} و<0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}</0>"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:528
 msgid "New posts from {firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}"
-msgstr "New posts from {firstAuthorName} and {additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}"
+msgstr "منشورات جديدة من {firstAuthorName} و{additionalAuthorsCount, plural, one {{formattedAuthorsCount} شخص آخر} other {{formattedAuthorsCount} أشخاص آخرين}}"
 
 #: src/components/dialogs/StarterPackDialog.tsx:202
 msgid "New starter pack"
@@ -7188,7 +7189,7 @@ msgstr "لا توجد نتائج."
 
 #: src/components/dialogs/GifSelect.tsx:235
 msgid "No search results found for \"{search}\"."
-msgstr "No search results found for \"{search}\"."
+msgstr "لم يتم العثور على نتائج بحث لـ \"{search}\"."
 
 #: src/view/screens/Profile.tsx:556
 msgid "No Starter Packs yet"
@@ -7337,7 +7338,7 @@ msgstr "يجب أن يكون الرقم رقم جوال"
 #: src/screens/Settings/AccountSettings.tsx:164
 #: src/screens/Settings/NotificationSettings/index.tsx:292
 msgid "Off"
-msgstr "عن"
+msgstr "إيقاف"
 
 #: src/components/dialogs/GifSelect.tsx:272
 #: src/components/dialogs/LanguageSelectDialog.tsx:347
@@ -7370,11 +7371,11 @@ msgstr "الردود الأقدم أولاً"
 
 #: src/screens/Settings/AccountSettings.tsx:164
 msgid "On"
-msgstr "على"
+msgstr "تشغيل"
 
 #: src/components/StarterPack/QrCode.tsx:86
 msgid "on<0><1/><2><3/></2></0>"
-msgstr "on<0><1/><2><3/></2></0>"
+msgstr "في<0><1/><2><3/></2></0>"
 
 #: src/screens/Settings/Settings.tsx:396
 msgid "Onboarding reset"
@@ -7780,11 +7781,11 @@ msgstr "الناس"
 
 #: src/screens/Messages/components/InviteLinkDialog.tsx:140
 msgid "People {ownerName} follows can join instantly"
-msgstr "People {ownerName} follows can join instantly"
+msgstr "يمكن للأشخاص الذين يتابعهم {ownerName} الانضمام على الفور"
 
 #: src/screens/Messages/components/InviteLinkDialog.tsx:145
 msgid "People {ownerName} follows can request to join"
-msgstr "People {ownerName} follows can request to join"
+msgstr "يمكن للأشخاص الذين يتابعهم {ownerName} طلب الانضمام"
 
 #. placeholder {0}: route.params.name
 #: src/Navigation.tsx:243
@@ -7997,7 +7998,7 @@ msgstr "الرجاء إدخال عنوان بريد إلكتروني صالح و
 #. placeholder {0}: currentAccount!.email
 #: src/components/dialogs/EmailDialog/screens/Verify.tsx:260
 msgid "Please enter the code we sent to <0>{0}</0> below."
-msgstr "Please enter the code we sent to <0>{0}</0> below."
+msgstr "يرجى إدخال الرمز الذي أرسلناه إلى <0>{0}</0> أدناه."
 
 #: src/screens/Settings/components/ChangePasswordDialog.tsx:66
 msgid "Please enter the code you received and the new password you would like to use."
@@ -8468,7 +8469,7 @@ msgstr "أعد تنشيط حسابك"
 #. placeholder {0}: item.moreReplies
 #: src/screens/PostThread/components/ThreadItemReadMore.tsx:93
 msgid "Read {0, plural, one {# more reply} other {# more replies}}"
-msgstr "Read {0, plural, one {# more reply} other {# more replies}}"
+msgstr "قراءة {0, plural, one {رد إضافي واحد} other {# ردود إضافية}}"
 
 #: src/screens/Search/SearchResults.tsx:189
 msgctxt "english-only-resource"
