@@ -109,6 +109,7 @@ google-services.json
 .eslintcache
 
 # i18n
+scripts/.ar-po-translate-cache.json
 src/locale/locales/_build/
 src/locale/locales/**/messages.js
 src/locale/locales/**/messages.mjs

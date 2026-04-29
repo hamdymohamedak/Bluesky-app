@@ -9956,6 +9956,11 @@ globby@^6.1.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
+google-translate-api-x@^10.7.2:
+  version "10.7.2"
+  resolved "https://registry.yarnpkg.com/google-translate-api-x/-/google-translate-api-x-10.7.2.tgz#bce2643bb296a37bbbee5970e7e0d28fa0dce880"
+  integrity sha512-GSmbvGMcnULaih2NFgD4Y6840DLAMot90mLWgwoB+FG/QpetyZkFrZkxop8ZxXgOAQXGskFOhGJady8nA6ZJ2g==
+
 gopd@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/gopd/-/gopd-1.0.1.tgz#29ff76de69dac7489b7c0918a5788e56477c332c"

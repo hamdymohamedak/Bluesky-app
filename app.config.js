@@ -34,6 +34,16 @@ module.exports = function (_config) {
   const UPDATES_ENABLED = IS_TESTFLIGHT || IS_PRODUCTION
 
   const USE_SENTRY = Boolean(process.env.SENTRY_AUTH_TOKEN)
+  const USE_GOOGLE_SERVICES_FILE = Boolean(
+    process.env.EXPO_USE_GOOGLE_SERVICES_FILE,
+  )
+  const USE_BITDRIFT = Boolean(process.env.EXPO_USE_BITDRIFT)
+  const BITDRIFT_PLUGIN = /** @type {[string, any]} */ ([
+    '@bitdrift/react-native',
+    {
+      networkInstrumentation: true,
+    },
+  ])
 
   const IOS_ICON_FILE =
     PLATFORM === 'web' // web build doesn't like .icon files
@@ -79,6 +89,7 @@ module.exports = function (_config) {
           CFBundleLocalizations: [
             'en',
             'an',
+            'ar',
             'ast',
             'ca',
             'cy',
@@ -193,7 +204,9 @@ module.exports = function (_config) {
           monochromeImage: './assets/icon-android-monochrome.png',
           backgroundColor: '#006AFF',
         },
-        googleServicesFile: './google-services.json',
+        googleServicesFile: USE_GOOGLE_SERVICES_FILE
+          ? './google-services.json'
+          : undefined,
         package: 'xyz.blueskyweb.app',
         intentFilters: [
           {
@@ -287,12 +300,7 @@ module.exports = function (_config) {
           },
         ],
         'react-native-compressor',
-        [
-          '@bitdrift/react-native',
-          {
-            networkInstrumentation: true,
-          },
-        ],
+        ...(USE_BITDRIFT ? [BITDRIFT_PLUGIN] : []),
         './plugins/starterPackAppClipExtension/withStarterPackAppClip.js',
         './plugins/withGradleJVMHeapSizeIncrease.js',
         './plugins/withAndroidManifestLargeHeapPlugin.js',
