@@ -705,7 +705,7 @@ msgstr "7 أيام"
 
 #: src/screens/Onboarding/StepFinished/ValuePropositionPager.shared.tsx:17
 msgid "A collection of popular feeds you can find on Bluesky, including News, Booksky, Game Dev, Blacksky, and Fountain Pens"
-msgstr "مجموعة من الخلاصات الشائعة التي يمكنك العثور عليها على Bluesky، بما في ذلك News وBooksky وGame Dev وBlacksky وFountain Pens"
+msgstr "مجموعة من التحديثات الشائعة التي يمكنك العثور عليها على Bluesky، بما في ذلك News وBooksky وGame Dev وBlacksky وFountain Pens"
 
 #. If last message does not contain text, fall back to "{user} reacted to {a message}"
 #: src/components/dms/getReactionInfo.ts:33
@@ -1014,11 +1014,11 @@ msgstr "أضف رد فعل"
 
 #: src/screens/Home/NoFeedsPinned.tsx:100
 msgid "Add recommended feeds"
-msgstr "أضف الخلاصات الموصى بها"
+msgstr "أضف التحديثات الموصى بها"
 
 #: src/screens/StarterPack/Wizard/index.tsx:538
 msgid "Add some feeds to your starter pack!"
-msgstr "أضف بعض الخلاصات إلى حزمة البداية الخاصة بك!"
+msgstr "أضف بعض التحديثات إلى حزمة البداية الخاصة بك!"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:40
 msgid "Add the default feed of only people you follow"
@@ -1174,7 +1174,7 @@ msgstr "سيتم عرض جميع اللغات في خلاصاتك."
 
 #: src/view/screens/Feeds.tsx:699
 msgid "All the feeds you've saved, right in one place."
-msgstr "جميع الخلاصات التي قمت بحفظها، مباشرة في مكان واحد."
+msgstr "جميع التحديثات التي قمت بحفظها، مباشرة في مكان واحد."
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:146
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:153
@@ -1546,7 +1546,7 @@ msgstr "مظهر"
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:52
 #: src/screens/Home/NoFeedsPinned.tsx:94
 msgid "Apply default recommended feeds"
-msgstr "تطبيق الخلاصات الافتراضية الموصى بها"
+msgstr "تطبيق التحديثات الافتراضية الموصى بها"
 
 #: src/screens/Settings/Settings.tsx:506
 #: src/screens/Settings/Settings.tsx:508
@@ -1941,7 +1941,7 @@ msgstr "طمس الصور"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:54
 msgid "Blur images and filter from feeds"
-msgstr "طمس الصور وتصفية من الخلاصات"
+msgstr "طمس الصور وتصفية من التحديثات"
 
 #: src/lib/interests.ts:54
 msgid "Books"
@@ -1954,7 +1954,7 @@ msgstr "كسر قواعد الموقع"
 #: src/view/com/feeds/ProfileFeedgens.tsx:167
 #: src/view/com/feeds/ProfileFeedgens.tsx:168
 msgid "Browse custom feeds"
-msgstr "تصفح الخلاصات المخصصة"
+msgstr "تصفح التحديثات المخصصة"
 
 #: src/components/FeedInterstitials.tsx:535
 msgid "Browse more accounts"
@@ -1962,7 +1962,7 @@ msgstr "تصفح المزيد من الحسابات"
 
 #: src/components/FeedInterstitials.tsx:665
 msgid "Browse more feeds on the Explore page"
-msgstr "تصفح المزيد من الخلاصات على صفحة الاستكشاف"
+msgstr "تصفح المزيد من التحديثات على صفحة الاستكشاف"
 
 #: src/components/FeedInterstitials.tsx:646
 #: src/components/FeedInterstitials.tsx:649
@@ -1976,7 +1976,7 @@ msgstr "تصفح المزيد من الاقتراحات على صفحة الاس
 #: src/screens/Home/NoFeedsPinned.tsx:104
 #: src/screens/Home/NoFeedsPinned.tsx:110
 msgid "Browse other feeds"
-msgstr "تصفح الخلاصات الأخرى"
+msgstr "تصفح التحديثات الأخرى"
 
 #: src/components/TrendingTopics.tsx:179
 msgid "Browse posts about {displayName}"
@@ -2314,7 +2314,7 @@ msgstr "اختر طريقة التحقق من النطاق"
 
 #: src/screens/StarterPack/Wizard/index.tsx:205
 msgid "Choose Feeds"
-msgstr "اختر الخلاصات"
+msgstr "اختر التحديثات"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:349
 msgid "Choose for me"
@@ -2351,7 +2351,7 @@ msgstr "اختر مزود حسابك"
 
 #: src/view/screens/Feeds.tsx:725
 msgid "Choose your own timeline! Feeds built by the community help you find content you love."
-msgstr "اختر الجدول الزمني الخاص بك! تساعدك الخلاصات التي أنشأها المجتمع في العثور على المحتوى الذي تحبه."
+msgstr "اختر الجدول الزمني الخاص بك! تساعدك التحديثات التي أنشأها المجتمع في العثور على المحتوى الذي تحبه."
 
 #: src/screens/Signup/StepInfo/index.tsx:268
 msgid "Choose your password"
@@ -3454,7 +3454,7 @@ msgstr "اكتشف خلاصات جديدة"
 
 #: src/view/screens/Feeds.tsx:722
 msgid "Discover New Feeds"
-msgstr "اكتشف الخلاصات الجديدة"
+msgstr "اكتشف التحديثات الجديدة"
 
 #: src/components/Dialog/index.tsx:408
 msgid "Dismiss"
@@ -3683,7 +3683,7 @@ msgstr "تحرير الصورة الرمزية"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:116
 msgid "Edit Feeds"
-msgstr "تحرير الخلاصات"
+msgstr "تحرير التحديثات"
 
 #: src/screens/Messages/ConversationSettings/prompts.tsx:27
 #: src/screens/Messages/ConversationSettings/prompts.tsx:32
@@ -3727,7 +3727,7 @@ msgstr "تحرير قائمة الاعتدال"
 #: src/Navigation.tsx:361
 #: src/view/screens/Feeds.tsx:510
 msgid "Edit My Feeds"
-msgstr "تحرير خلاصاتي"
+msgstr "تحرير تحديثاتي"
 
 #: src/screens/Messages/ConversationSettings/index.tsx:455
 msgid "Edit name"
@@ -4263,14 +4263,14 @@ msgstr "فشل تحميل المحادثات"
 #: src/screens/Search/Explore.tsx:575
 #: src/screens/Search/Explore.tsx:621
 msgid "Failed to load feeds"
-msgstr "فشل تحميل الخلاصات"
+msgstr "فشل تحميل التحديثات"
 
 #: src/screens/Search/Explore.tsx:489
 #: src/screens/Search/Explore.tsx:544
 #: src/screens/Search/Explore.tsx:589
 #: src/screens/Search/Explore.tsx:635
 msgid "Failed to load feeds preferences"
-msgstr "فشل تحميل تفضيلات الخلاصات"
+msgstr "فشل تحميل تفضيلات التحديثات"
 
 #: src/components/dialogs/GifSelect.tsx:227
 msgid "Failed to load GIFs"
@@ -4307,7 +4307,7 @@ msgstr "فشل تحميل الملفات الشخصية"
 #: src/screens/Search/Explore.tsx:582
 #: src/screens/Search/Explore.tsx:628
 msgid "Failed to load suggested feeds"
-msgstr "فشل تحميل الخلاصات المقترحة"
+msgstr "فشل تحميل التحديثات المقترحة"
 
 #: src/screens/Search/Explore.tsx:391
 msgid "Failed to load suggested follows"
@@ -4423,7 +4423,7 @@ msgstr "فشل تحديث البريد الإلكتروني، يرجى المح�
 
 #: src/components/FeedCard.tsx:316
 msgid "Failed to update feeds"
-msgstr "فشل تحديث الخلاصات"
+msgstr "فشل تحديث التحديثات"
 
 #: src/state/queries/activity-subscriptions.ts:101
 msgid "Failed to update notification declaration"
@@ -4471,7 +4471,7 @@ msgstr "تغذية بواسطة {0}"
 
 #: src/view/com/feeds/MissingFeed.tsx:153
 msgid "Feed creator"
-msgstr "منشئ الخلاصات"
+msgstr "منشئ التحديثات"
 
 #: src/view/com/feeds/MissingFeed.tsx:190
 msgid "Feed identifier"
@@ -4511,7 +4511,7 @@ msgstr "تم إرسال التعليقات إلى مشغل الخلاصة"
 #: src/view/shell/desktop/LeftNav.tsx:729
 #: src/view/shell/Drawer.tsx:518
 msgid "Feeds"
-msgstr "يغذي"
+msgstr "تحديثات"
 
 #: src/screens/SavedFeeds.tsx:227
 #: src/screens/SavedFeeds.tsx:398
@@ -4523,11 +4523,11 @@ msgstr "Feeds are custom algorithms that users build with a little coding expert
 #: src/screens/SavedFeeds.tsx:271
 msgctxt "toast"
 msgid "Feeds updated!"
-msgstr "تم تحديث الخلاصات!"
+msgstr "تم تحديث التحديثات!"
 
 #: src/screens/Search/modules/ExploreRecommendations.tsx:66
 msgid "Feeds we think you might like."
-msgstr "الخلاصات التي نعتقد أنها قد تعجبك."
+msgstr "التحديثات التي نعتقد أنها قد تعجبك."
 
 #: src/screens/Settings/components/OTAInfo.tsx:61
 msgid "Fetch update"
@@ -4540,7 +4540,7 @@ msgstr "تم حفظ الملف بنجاح!"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:69
 msgid "Filter from feeds"
-msgstr "تصفية من الخلاصات"
+msgstr "تصفية من التحديثات"
 
 #: src/screens/Search/components/SearchLanguageDropdown.tsx:98
 msgid "Filter search by language"
@@ -6324,7 +6324,7 @@ msgstr "تحميل المزيد"
 #: src/screens/Search/Explore.tsx:519
 #: src/screens/Search/Explore.tsx:610
 msgid "Load more suggested feeds"
-msgstr "تحميل المزيد من الخلاصات المقترحة"
+msgstr "تحميل المزيد من التحديثات المقترحة"
 
 #: src/view/screens/Notifications.tsx:274
 msgid "Load new notifications"
@@ -6430,7 +6430,7 @@ msgstr "تأكد من أن هذا هو المكان الذي تنوي الذها
 #: src/screens/Settings/ContentAndMediaSettings.tsx:62
 #: src/screens/Settings/ContentAndMediaSettings.tsx:65
 msgid "Manage saved feeds"
-msgstr "إدارة الخلاصات المحفوظة"
+msgstr "إدارة التحديثات المحفوظة"
 
 #: src/screens/Moderation/index.tsx:339
 msgid "Manage verification settings"
@@ -6662,7 +6662,7 @@ msgstr "لقد اختار المشرف تعيين تحذير عام على ال�
 #: src/view/shell/desktop/Feeds.tsx:106
 #: src/view/shell/desktop/Feeds.tsx:153
 msgid "More feeds"
-msgstr "المزيد من الخلاصات"
+msgstr "المزيد من التحديثات"
 
 #: src/view/com/composer/select-language/PostLanguageSelect.tsx:125
 #: src/view/com/composer/select-language/PostLanguageSelect.tsx:128
@@ -6812,11 +6812,11 @@ msgstr "تاريخ ميلادي"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:77
 msgid "My favorite feeds and people - join me!"
-msgstr "الخلاصات والأشخاص المفضلين لدي - انضم إلي!"
+msgstr "التحديثات والأشخاص المفضلين لدي - انضم إلي!"
 
 #: src/view/screens/Feeds.tsx:696
 msgid "My Feeds"
-msgstr "خلاصاتي"
+msgstr "تحديثاتي"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:49
 msgid "My starter pack"
@@ -7104,7 +7104,7 @@ msgstr "لا توجد رسائل حتى الآن"
 
 #: src/screens/Onboarding/StepFinished/ValuePropositionPager.shared.tsx:14
 msgid "No more doomscrolling junk-filled algorithms. Find feeds that work for you, not against you."
-msgstr "لا مزيد من الخوارزميات المملوءة بالنفايات. ابحث عن الخلاصات التي تناسبك، وليس ضدك."
+msgstr "لا مزيد من الخوارزميات المملوءة بالنفايات. ابحث عن التحديثات التي تناسبك، وليس ضدك."
 
 #: src/components/contacts/screens/ViewMatches.tsx:563
 msgid "No name"
@@ -7855,7 +7855,7 @@ msgstr "الصور مخصصة للبالغين."
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:534
 #: src/screens/SavedFeeds.tsx:559
 msgid "Pin feed"
-msgstr "تغذية دبوس"
+msgstr "تثبيت"
 
 #: src/screens/ProfileList/components/Header.tsx:151
 #: src/screens/ProfileList/components/Header.tsx:158
@@ -7884,7 +7884,7 @@ msgstr "تم تثبيت {0} في الصفحة الرئيسية"
 #: src/screens/SavedFeeds.tsx:146
 #: src/screens/SavedFeeds.tsx:337
 msgid "Pinned Feeds"
-msgstr "الخلاصات المثبتة"
+msgstr "التحديثات المثبتة"
 
 #: src/screens/ProfileList/components/Header.tsx:77
 msgid "Pinned to your feeds"
@@ -8205,7 +8205,7 @@ msgstr "تم إلغاء تثبيت المشاركة"
 #: src/screens/StarterPack/StarterPackScreen.tsx:197
 #: src/view/screens/Profile.tsx:233
 msgid "Posts"
-msgstr "دعامات"
+msgstr "المنشورات"
 
 #: src/components/dialogs/MutedWords.tsx:123
 msgid "Posts can be muted based on their text, their tags, or both. We recommend avoiding common words that appear in many posts, since it can result in no posts being shown."
@@ -8311,14 +8311,14 @@ msgstr "يعالج..."
 #: src/view/screens/DebugMod.tsx:938
 #: src/view/screens/Profile.tsx:382
 msgid "profile"
-msgstr "حساب تعريفي"
+msgstr "الحساب الشخصي"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:298
 #: src/view/shell/desktop/LeftNav.tsx:788
 #: src/view/shell/Drawer.tsx:78
 #: src/view/shell/Drawer.tsx:584
 msgid "Profile"
-msgstr "حساب تعريفي"
+msgstr "الحساب الشخصي"
 
 #: src/screens/Profile/Header/Shell.tsx:164
 msgid "Profile banner placeholder"
@@ -8644,7 +8644,7 @@ msgstr "إزالة من الدردشة"
 #: src/screens/ProfileList/components/MoreOptionsMenu.tsx:179
 #: src/screens/SavedFeeds.tsx:549
 msgid "Remove from my feeds"
-msgstr "إزالة من خلاصاتي"
+msgstr "إزالة من تحديثاتي"
 
 #: src/screens/Settings/Settings.tsx:667
 msgid "Remove from quick access?"
@@ -8653,7 +8653,7 @@ msgstr "هل تريد الإزالة من الوصول السريع؟"
 #: src/screens/List/ListHiddenScreen.tsx:174
 #: src/screens/List/ListHiddenScreen.tsx:178
 msgid "Remove from saved feeds"
-msgstr "إزالة من الخلاصات المحفوظة"
+msgstr "إزالة من التحديثات المحفوظة"
 
 #: src/components/PostControls/BookmarkButton.tsx:143
 #: src/screens/Bookmarks/index.tsx:259
@@ -8729,7 +8729,7 @@ msgstr "تمت الإزالة من القائمة"
 
 #: src/screens/List/ListHiddenScreen.tsx:98
 msgid "Removed from saved feeds"
-msgstr "تمت إزالتها من الخلاصات المحفوظة"
+msgstr "تمت إزالتها من التحديثات المحفوظة"
 
 #: src/components/PostControls/BookmarkButton.tsx:107
 #: src/screens/Bookmarks/index.tsx:217
@@ -9216,18 +9216,18 @@ msgstr "احفظ هذه الخيارات للمرة القادمة"
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:327
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:333
 msgid "Save to my feeds"
-msgstr "حفظ في خلاصاتي"
+msgstr "حفظ في تحديثاتي"
 
 #: src/view/shell/desktop/LeftNav.tsx:766
 #: src/view/shell/Drawer.tsx:559
 msgctxt "link to bookmarks screen"
 msgid "Saved"
-msgstr "أنقذ"
+msgstr "المحفوظات"
 
 #: src/screens/SavedFeeds.tsx:198
 #: src/screens/SavedFeeds.tsx:375
 msgid "Saved Feeds"
-msgstr "الخلاصات المحفوظة"
+msgstr "التحديثات المحفوظة"
 
 #: src/components/dialogs/nuxs/BookmarksAnnouncement.tsx:144
 #: src/Navigation.tsx:634
@@ -9293,7 +9293,7 @@ msgstr "البحث في جهات الاتصال"
 
 #: src/view/screens/Feeds.tsx:436
 msgid "Search feeds"
-msgstr "بحث في الخلاصات"
+msgstr "بحث في التحديثات"
 
 #. Accessibility label for a tab that searches for accounts in a category (e.g. Art, Video Games, Sports, etc.) that are suggested for the user to follow. The tab is not currently active and can be selected.
 #: src/components/ProgressGuide/FollowDialog.tsx:505
@@ -9311,7 +9311,7 @@ msgstr "Search for \"{searchText}\""
 
 #: src/screens/StarterPack/Wizard/index.tsx:541
 msgid "Search for feeds that you want to suggest to others."
-msgstr "ابحث عن الخلاصات التي تريد اقتراحها على الآخرين."
+msgstr "ابحث عن التحديثات التي تريد اقتراحها على الآخرين."
 
 #: src/screens/Search/Explore.tsx:378
 msgid "Search for more accounts"
@@ -9319,7 +9319,7 @@ msgstr "ابحث عن المزيد من الحسابات"
 
 #: src/screens/Search/Explore.tsx:456
 msgid "Search for more feeds"
-msgstr "البحث عن المزيد من الخلاصات"
+msgstr "البحث عن المزيد من التحديثات"
 
 #: src/components/dms/components/UserSearchInput.tsx:43
 msgid "Search for people"
@@ -9327,7 +9327,7 @@ msgstr "البحث عن الناس"
 
 #: src/screens/Search/Shell.tsx:379
 msgid "Search for posts, users, or feeds"
-msgstr "ابحث عن المنشورات أو المستخدمين أو الخلاصات"
+msgstr "ابحث عن المنشورات أو المستخدمين أو التحديثات"
 
 #: src/components/dialogs/GifSelect.tsx:181
 msgid "Search GIFs"
@@ -9882,7 +9882,7 @@ msgstr "إظهار الشارة"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:64
 msgid "Show badge and filter from feeds"
-msgstr "إظهار الشارة والتصفية من الخلاصات"
+msgstr "إظهار الشارة والتصفية من التحديثات"
 
 #: src/components/dialogs/Embed.tsx:125
 msgid "Show customization options"
@@ -9958,7 +9958,7 @@ msgstr "إظهار التحذير"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:59
 msgid "Show warning and filter from feeds"
-msgstr "إظهار التحذير والتصفية من الخلاصات"
+msgstr "إظهار التحذير والتصفية من التحديثات"
 
 #: src/components/dialogs/nuxs/LiveNowBetaDialog.tsx:60
 #: src/components/dialogs/nuxs/LiveNowBetaDialog.tsx:170
@@ -10130,7 +10130,7 @@ msgstr "بعض عمليات التحقق الخاصة بك غير صالحة."
 
 #: src/components/FeedInterstitials.tsx:628
 msgid "Some other feeds you might like"
-msgstr "بعض الخلاصات الأخرى التي قد تعجبك"
+msgstr "بعض التحديثات الأخرى التي قد تعجبك"
 
 #: src/components/WhoCanReply.tsx:88
 msgid "Some people can reply"
@@ -10293,7 +10293,7 @@ msgstr "حزمة البداية غير صالحة"
 #: src/screens/Search/Explore.tsx:665
 #: src/view/screens/Profile.tsx:239
 msgid "Starter Packs"
-msgstr "حزم المبتدئين"
+msgstr "حزم البدايه"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:295
 msgid "Starter packs let you easily share your favorite feeds and people with your friends."
@@ -10305,7 +10305,7 @@ msgstr "تتيح لك حزم البدء مشاركة الموجزات والأش
 
 #: src/view/screens/Profile.tsx:554
 msgid "Starter Packs let you share your favorite feeds and people with your friends."
-msgstr "تتيح لك حزم المبتدئين مشاركة الموجزات والأشخاص المفضلين لديك مع أصدقائك."
+msgstr "تتيح لك حزم البدايه مشاركة الموجزات والأشخاص المفضلين لديك مع أصدقائك."
 
 #: src/screens/Settings/AboutSettings.tsx:99
 #: src/screens/Settings/AboutSettings.tsx:102
@@ -11080,7 +11080,7 @@ msgstr "تم حذف هذه المشاركة من قبل كاتبها"
 
 #: src/components/PostControls/PostMenu/PostMenuItems.tsx:809
 msgid "This post will be hidden from feeds and threads. This cannot be undone."
-msgstr "سيتم إخفاء هذه المشاركة من الخلاصات والمواضيع. لا يمكن التراجع عن هذا."
+msgstr "سيتم إخفاء هذه المشاركة من التحديثات والمواضيع. لا يمكن التراجع عن هذا."
 
 #: src/view/com/composer/Composer.tsx:954
 msgid "This post's author has disabled quote posts."
@@ -12196,7 +12196,7 @@ msgstr "تحذير المحتوى"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:49
 msgid "Warn content and filter from feeds"
-msgstr "تحذير المحتوى والتصفية من الخلاصات"
+msgstr "تحذير المحتوى والتصفية من التحديثات"
 
 #: src/features/liveNow/components/LiveStatusDialog.tsx:189
 #: src/features/liveNow/components/LiveStatusDialog.tsx:198
@@ -12965,7 +12965,7 @@ msgstr "ستبدأ في تلقي إشعارات بشأن {0}!"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:283
 msgid "You'll stay updated with these feeds"
-msgstr "ستبقى مطلعًا على هذه الخلاصات"
+msgstr "ستبقى مطلعًا على هذه التحديثات"
 
 #: src/screens/SignupQueued.tsx:130
 msgid "You're in line"
